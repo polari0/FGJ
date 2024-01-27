@@ -5648,3 +5648,318 @@ The following settings have been applied:
 [2024.01.27-17.21.30:134][404]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
 [2024.01.27-17.21.34:141][540]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2024.01.27-17.21.34:141][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.22.00:213][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.01.27-17.22.00:221][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.039
+[2024.01.27-17.22.00:221][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-17.22.00:221][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-17.22.00:230][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto1
+[2024.01.27-17.22.00:230][672]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto1C63A363B43A6A265C5DBEE92D9C9493A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto1.uasset'
+[2024.01.27-17.22.00:232][672]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Total job queries 51, among them cache hits 12 (23.53%)
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Tracking 39 distinct input hashes that result in 26 distinct outputs (66.67%)
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: RAM used: 1,57 MiB of 819,20 MiB budget. Usage: 0.19%
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Average time worker was idle: 564.57 s
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Job execution time: average 4.12 s, max 6.96 s
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Job life time (pending + execution): average 4.16 s, max 6.96
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Shader code size: average 81,501 KiB, min 74,895 KiB, max 86,195 KiB
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.50 s
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Average processing rate: 0.26 jobs/sec
+[2024.01.27-17.24.32:116][715]LogShaderCompilers: Display: Total thread time: 10,896 s
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: Total thread preprocess time: 1,957 s
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: Percentage time preprocessing: 17.96%
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.13 sec, max 4.13 sec, min 4.13 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.02% of total time (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 37.88% of total time (compiled    1 times, average 4.13 sec, max 4.13 sec, min 4.13 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.10% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.24.32:117][715]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.30.39:900][988]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.30.39:900][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.30.40:319][998]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.30.40:320][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.30.40:749][  8]LogSlate: Window 'ObjectToSpawn' being destroyed
+[2024.01.27-17.30.40:772][  8]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.27-17.30.40:772][  8]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.30.40:772][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.30.52:056][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.01.27-17.30.52:056][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.30.52:057][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.32.07:844][865]LogSlate: Window 'Projectile' being destroyed
+[2024.01.27-17.32.07:849][865]LogSlate: Window 'Projectile' being destroyed
+[2024.01.27-17.32.07:859][865]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.32.07:859][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.32.16:355][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-17.32.16:356][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.32.16:356][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.32.43:181][ 91]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.32.43:428][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.32.45:829][170]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.01.27-17.32.45:829][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.32.45:830][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.34.18:579][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-17.34.18:705][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjectToSpawn" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset" SILENT=true
+[2024.01.27-17.34.18:711][530]LogSavePackage: Moving output files for package: /Game/ObjectToSpawn
+[2024.01.27-17.34.18:712][530]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn5D06A8D84E87386F0AB6A586743E11F7.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset'
+[2024.01.27-17.34.18:727][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1.85 sec)
+[2024.01.27-17.34.18:729][530]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.27-17.34.18:729][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-17.34.31:750][ 18]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.27-17.34.31:762][ 18]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.27-17.34.31:763][ 18]LogPlayLevel: [PlayLevel] Compiling ObjectToSpawn before play...
+[2024.01.27-17.34.31:888][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.01.27-17.34.31:898][ 18]LogPlayLevel: PlayLevel: Blueprint regeneration took 136 ms (1 blueprints)
+[2024.01.27-17.34.31:898][ 18]PIE: New page: PIE session: VRTemplateMap (27.1.2024 klo 21.34.31)
+[2024.01.27-17.34.31:898][ 18]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.34.31:903][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004904s)
+[2024.01.27-17.34.31:903][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.004953s)
+[2024.01.27-17.34.31:931][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.01.27-17.34.31:934][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.34.31:935][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.34.31:936][ 18]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.01.27-17.34.31:936][ 18]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2024.01.27-17.34.31:936][ 18]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.27-17.34.31:936][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-17.34.31:936][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-17.34.31:937][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-17.34.31:937][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-17.34.31:937][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-17.34.31:937][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-17.34.31:937][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-17.34.31:937][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-17.34.31:938][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-17.34.31:938][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-17.34.31:938][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-17.34.31:941][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-17.34.31:985][ 18]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.27-17.34.31:986][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-17.34.31:986][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-17.34.31:986][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-17.34.31:987][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.27-17.34.31:987][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.01.27-17.34.31:991][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.27-17.34.31:991][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.27-17.34.31:991][ 18]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.27-17.34.31:991][ 18]LogAudio: Display: Audio Device (ID: 15) registered with world 'VRTemplateMap'.
+[2024.01.27-17.34.31:991][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.27-17.34.32:055][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.34.32:557][ 18]LogLoad: Game class is 'VRGameMode_C'
+[2024.01.27-17.34.32:559][ 18]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.01.27-19.34.32
+[2024.01.27-17.34.32:560][ 18]LogWorld: Bringing up level for play took: 0.001868
+[2024.01.27-17.34.32:564][ 18]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.01.27-17.34.32:567][ 18]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.27-17.34.32:572][ 18]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.34.32:574][ 18]vr.PixelDensity = "1"
+[2024.01.27-17.34.32:585][ 18]PIE: Server logged in
+[2024.01.27-17.34.32:593][ 18]PIE: Play in editor total start time 0,831 seconds.
+[2024.01.27-17.34.32:644][ 18]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2024.01.27-17.34.32:654][ 18]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.27-17.34.32:832][ 21]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.27-17.35.14:536][538]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.01.27-17.35.14:610][538]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.074 s
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: === Handled ensure: ===
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: 
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0)  [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 670] 
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_TIME_INVALID
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: Stack: 
+[2024.01.27-17.35.14:610][538]LogOutputDevice: Error: [Callstack] 0x00007ffbc0b25514 UnrealEditor-OpenXRHMD.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x0000019779abec8b UnrealEditor-OpenXRInput.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x0000019779abe4a2 UnrealEditor-OpenXRInput.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc1ace8c89 UnrealEditor-HeadMountedDisplay.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc1acf33f9 UnrealEditor-HeadMountedDisplay.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc096cc658 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc097db695 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0afb87eb UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0afbfd32 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc2cbc1c9f UnrealEditor-Core.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc2cbc22ae UnrealEditor-Core.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc2cbceeb0 UnrealEditor-Core.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0afe75aa UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0aff0bfe UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0a0a9839 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc0a0b67a2 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc071958f8 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc07deea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642a98af2 UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642abd28c UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642abd37a UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642ac0854 UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642ad6984 UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ff642ad9d7a UnrealEditor.exe!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc89447344 KERNEL32.DLL!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: [Callstack] 0x00007ffc895c26b1 ntdll.dll!UnknownFunction []
+[2024.01.27-17.35.14:611][538]LogOutputDevice: Error: 
+[2024.01.27-17.35.14:622][538]LogStats:                SubmitErrorReport -  0.000 s
+[2024.01.27-17.35.17:015][538]LogStats:                    SendNewReport -  2.393 s
+[2024.01.27-17.35.17:015][538]LogStats:             FDebug::EnsureFailed -  2.479 s
+[2024.01.27-17.35.19:666][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.35.19:666][660]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.35.19:852][660]LogSlate: Window 'WhackAInquisitor Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.27-17.35.19:856][660]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.35.19:856][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.35.19:862][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-17.35.19:870][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.35.19:913][660]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.27-17.35.19:913][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.27-17.35.19:918][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.27-17.35.19:940][660]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.27-17.35.19:940][660]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.35.19:944][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.01.27-17.35.20:244][661]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.01.27-17.38.08:537][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.01.27-17.38.08:566][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2024.01.27-17.38.08:567][754]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto2F9A873374122E8E7DB604A84EFE8E1EE.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2024.01.27-17.38.08:570][754]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.01.27-17.38.08:571][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.059
+[2024.01.27-17.38.08:571][754]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2024.01.27-17.38.08:571][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-17.38.08:571][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-17.38.08:580][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto2
+[2024.01.27-17.38.08:581][754]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto2C4D4A07040EE64CE9A35E68B604861B6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto2.uasset'
+[2024.01.27-17.38.08:583][754]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ObjectToSpawn] ([2] browsable assets)...
+[2024.01.27-17.38.08:663][754]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ObjectToSpawn.ObjectToSpawn]
+[2024.01.27-17.38.08:663][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/ObjectToSpawn]
+[2024.01.27-17.38.08:671][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ObjectToSpawn_Auto2
+[2024.01.27-17.38.08:671][754]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Auto291BAA8A448D1E64FAE0C1FA802C765F3.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/ObjectToSpawn_Auto2.uasset'
+[2024.01.27-17.38.08:674][754]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.01.27-17.46.33:023][271]LogSlate: External Image Picker: DecompressImage failed
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Total job queries 55, among them cache hits 14 (25.45%)
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 27 distinct outputs (65.85%)
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: RAM used: 1,64 MiB of 819,20 MiB budget. Usage: 0.20%
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Average time worker was idle: 564.57 s
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Job execution time: average 4.12 s, max 6.96 s
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Job life time (pending + execution): average 4.16 s, max 6.96
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Shader code size: average 81,501 KiB, min 74,895 KiB, max 86,195 KiB
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.50 s
+[2024.01.27-17.46.34:037][284]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Average processing rate: 0.26 jobs/sec
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Total thread time: 10,896 s
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Total thread preprocess time: 1,957 s
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Percentage time preprocessing: 17.96%
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.13 sec, max 4.13 sec, min 4.13 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.02% of total time (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 37.88% of total time (compiled    1 times, average 4.13 sec, max 4.13 sec, min 4.13 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.10% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.46.34:038][284]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.46.41:641][503]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.27-17.46.41:661][503]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.27-17.46.49:533][674]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.01.27-17.46.49:553][674]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.01.27-17.46.54:372][747]LogSlate: External Image Picker: DecompressImage failed
+[2024.01.27-17.47.07:578][108]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.01.27-17.47.39:286][225]LogSlate: Window 'Add new Gameplay Tag Source' being destroyed
+[2024.01.27-17.47.56:596][331]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.48.04:558][547]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.48.32:919][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.01.27-17.48.32:926][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.042
+[2024.01.27-17.48.32:926][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Projectile] ([2] browsable assets)...
+[2024.01.27-17.48.32:991][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile]
+[2024.01.27-17.48.32:992][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Projectile]
+[2024.01.27-17.48.33:007][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto3
+[2024.01.27-17.48.33:008][741]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Projectile_Auto3361B9E7946421036CE1047B8822F9C1C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/Projectile_Auto3.uasset'
+[2024.01.27-17.48.33:011][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ObjectToSpawn] ([2] browsable assets)...
+[2024.01.27-17.48.33:019][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ObjectToSpawn.ObjectToSpawn]
+[2024.01.27-17.48.33:019][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/ObjectToSpawn]
+[2024.01.27-17.48.33:027][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ObjectToSpawn_Auto3
+[2024.01.27-17.48.33:028][741]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Auto3604BDA14453C8BBE48D18389820CC5A2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/ObjectToSpawn_Auto3.uasset'
+[2024.01.27-17.48.33:029][741]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.01.27-17.48.57:384][990]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.48.58:107][ 11]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.49.46:383][307]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.49.49:942][307]LogSlate: Window 'Add new Gameplay Tag Source' being destroyed
+[2024.01.27-17.49.59:099][568]LogSlate: Window 'Gameplay Tag Manager' being destroyed
+[2024.01.27-17.51.07:797][153]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.51.11:333][250]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.51.12:690][289]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Config/DefaultEngine.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2024.01.27-17.51.17:138][422]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.27-17.51.17:153][422]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.27-17.51.21:829][584]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.27-17.51.21:840][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.27-17.51.21:843][584]LogPlayLevel: [PlayLevel] Compiling Projectile before play...
+[2024.01.27-17.51.21:917][584]LogPlayLevel: [PlayLevel] Compiling ObjectToSpawn before play...
+[2024.01.27-17.51.22:009][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.01.27-17.51.22:026][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (2 blueprints)
+[2024.01.27-17.51.22:026][584]PIE: New page: PIE session: VRTemplateMap (27.1.2024 klo 21.51.22)
+[2024.01.27-17.51.22:026][584]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.51.22:031][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003818s)
+[2024.01.27-17.51.22:031][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.003860s)
+[2024.01.27-17.51.22:059][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.01.27-17.51.22:062][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.51.22:063][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.51.22:063][584]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.01.27-17.51.22:064][584]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2024.01.27-17.51.22:064][584]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-17.51.22:064][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-17.51.22:064][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-17.51.22:064][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-17.51.22:064][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-17.51.22:064][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-17.51.22:067][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-17.51.22:110][584]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.27-17.51.22:112][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-17.51.22:112][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-17.51.22:112][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-17.51.22:113][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.01.27-17.51.22:113][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.01.27-17.51.22:115][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.01.27-17.51.22:115][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.01.27-17.51.22:115][584]LogInit: FAudioDevice initialized with ID 16.
+[2024.01.27-17.51.22:115][584]LogAudio: Display: Audio Device (ID: 16) registered with world 'VRTemplateMap'.
+[2024.01.27-17.51.22:115][584]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.27-17.51.22:183][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.51.22:723][584]LogLoad: Game class is 'VRGameMode_C'
+[2024.01.27-17.51.22:725][584]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.01.27-19.51.22
+[2024.01.27-17.51.22:725][584]LogWorld: Bringing up level for play took: 0.001644
+[2024.01.27-17.51.22:729][584]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.01.27-17.51.22:735][584]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.27-17.51.22:739][584]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.51.22:741][584]vr.PixelDensity = "1"
+[2024.01.27-17.51.22:754][584]PIE: Server logged in
+[2024.01.27-17.51.22:763][584]PIE: Play in editor total start time 0,923 seconds.
+[2024.01.27-17.51.22:868][584]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2024.01.27-17.51.22:882][584]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.27-17.51.23:073][587]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.27-17.52.56:238][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.52.56:238][749]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.52.56:441][749]LogSlate: Window 'WhackAInquisitor Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.27-17.52.56:445][749]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.52.56:446][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.52.56:452][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-17.52.56:460][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.52.56:493][749]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.27-17.52.56:493][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.27-17.52.56:498][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.27-17.52.56:520][749]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.27-17.52.56:520][749]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.52.56:525][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2024.01.27-17.52.56:816][750]LogPlayLevel: Display: Destroying online subsystem :Context_43
