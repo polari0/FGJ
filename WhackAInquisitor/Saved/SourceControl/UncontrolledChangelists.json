@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/ilmar/OneDrive/Documents/Unreal Projects/WhackAInquisitor/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
