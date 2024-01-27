@@ -5419,3 +5419,232 @@ The following settings have been applied:
 [2024.01.27-17.05.21:764][ 48]LogFileHelpers: Auto-saving content packages took 0.016
 [2024.01.27-17.06.06:827][867]LogSlate: Window 'Find in Blueprints' being destroyed
 [2024.01.27-17.06.06:844][867]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-17.11.06:006][114]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.27-17.11.06:023][114]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.27-17.11.06:039][114]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.27-17.11.06:069][115]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.27-17.11.16:566][672]LogContentBrowser: Attempting asset rename: NewBlueprint -> ObjectToSpawn
+[2024.01.27-17.11.16:579][672]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.27-17.11.17:338][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-17.11.17:339][710]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.11.17:340][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.11.17:614][710]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-17.11.29:440][105]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.11.29:553][105]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Total job queries 38, among them cache hits 8 (21.05%)
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 20 distinct outputs (68.97%)
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: RAM used: 1,14 MiB of 819,20 MiB budget. Usage: 0.14%
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Jobs assigned 1, completed 0 (0.00%)
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.27-17.11.29:554][105]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.11.47:217][653]BlueprintLog: New page: Compile ObjectToSpawn
+[2024.01.27-17.11.47:283][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.01.27-17.11.48:783][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-17.11.48:944][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjectToSpawn" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset" SILENT=true
+[2024.01.27-17.11.48:950][697]LogSavePackage: Moving output files for package: /Game/ObjectToSpawn
+[2024.01.27-17.11.48:950][697]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawnD2CFCD444388DE596CA309A1258B808B.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset'
+[2024.01.27-17.11.48:972][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 1.70 sec)
+[2024.01.27-17.11.48:974][697]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.27-17.11.48:974][697]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-17.13.38:146][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-17.13.38:159][865]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.27-17.13.38:167][865]LogPlayLevel: [PlayLevel] Compiling SpawnPoint before play...
+[2024.01.27-17.13.38:283][865]LogPlayLevel: [PlayLevel] Compiling Spawner before play...
+[2024.01.27-17.13.38:286][865]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] BaseAsyncTask: Internal connection error.  Spawn Actor for Gameplay Task
+[2024.01.27-17.13.38:288][865]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2024.01.27-17.13.38:338][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.01.27-17.13.38:348][865]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (2 blueprints)
+[2024.01.27-17.13.38:349][865]BlueprintLog: Warning: Blueprint failed to compile:  Spawner
+[2024.01.27-17.13.55:472][865]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.01.27-17.15.04:545][219]LogDerivedDataCache: C:/Users/ilmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.215 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1120 files in 1815 folders with total size 43 MiB.
+[2024.01.27-17.15.56:421][986]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-17.15.56:433][986]LogSlate: Window 'Message Log' being destroyed
+[2024.01.27-17.16.56:650][ 15]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-17.16.56:662][ 15]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.27-17.16.56:663][ 15]LogPlayLevel: [PlayLevel] Compiling Spawner before play...
+[2024.01.27-17.16.56:740][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.01.27-17.16.56:750][ 15]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2024.01.27-17.16.56:750][ 15]PIE: New page: PIE session: VRTemplateMap (27.1.2024 klo 21.16.56)
+[2024.01.27-17.16.56:750][ 15]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.16.56:757][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005846s)
+[2024.01.27-17.16.56:757][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005901s)
+[2024.01.27-17.16.56:781][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.27-17.16.56:785][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.16.56:786][ 15]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.16.56:787][ 15]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.01.27-17.16.56:788][ 15]LogPlayLevel: PIE: World Init took: (0.002921s)
+[2024.01.27-17.16.56:788][ 15]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-17.16.56:788][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-17.16.56:788][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-17.16.56:789][ 15]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-17.16.56:789][ 15]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-17.16.56:789][ 15]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-17.16.56:792][ 15]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-17.16.56:837][ 15]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.27-17.16.56:838][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-17.16.56:838][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-17.16.56:838][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-17.16.56:840][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.27-17.16.56:840][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.27-17.16.56:843][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.27-17.16.56:843][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.27-17.16.56:843][ 15]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.27-17.16.56:843][ 15]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2024.01.27-17.16.56:843][ 15]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.27-17.16.56:851][ 15]LogLoad: Game class is 'VRGameMode_C'
+[2024.01.27-17.16.56:853][ 15]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.01.27-19.16.56
+[2024.01.27-17.16.56:854][ 15]LogWorld: Bringing up level for play took: 0.002043
+[2024.01.27-17.16.56:858][ 15]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.27-17.16.56:863][ 15]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.27-17.16.56:863][ 15]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.16.56:866][ 15]PIE: Server logged in
+[2024.01.27-17.16.56:867][ 15]PIE: Play in editor total start time 0,205 seconds.
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Total job queries 47, among them cache hits 12 (25.53%)
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Tracking 35 distinct input hashes that result in 24 distinct outputs (68.57%)
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: RAM used: 1,41 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Job execution time: average 6.96 s, max 6.96 s
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Job life time (pending + execution): average 6.96 s, max 6.96
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Shader code size: average 83,414 KiB, min 83,414 KiB, max 83,414 KiB
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.96 s
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Average processing rate: 0.14 jobs/sec
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Total thread time: 6,103 s
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Total thread preprocess time: 1,83 s
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Percentage time preprocessing: 29.98%
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Effective parallelization: 0.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.17.00:449][220]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.17.10:086][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.17.10:087][706]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.17.10:087][706]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.17.10:088][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.17.10:095][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-17.17.10:102][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.17.10:130][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-17.17.10:131][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.27-17.17.10:131][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.27-17.17.10:133][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.27-17.17.10:142][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.17.10:145][706]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.27-17.17.10:145][706]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.17.10:148][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.27-17.17.10:291][707]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.27-17.17.12:543][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-17.17.12:543][807]PIE: New page: PIE session: VRTemplateMap (27.1.2024 klo 21.17.12)
+[2024.01.27-17.17.12:543][807]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.17.12:548][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005014s)
+[2024.01.27-17.17.12:548][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005063s)
+[2024.01.27-17.17.12:576][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.27-17.17.12:582][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.17.12:582][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.17.12:582][807]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.01.27-17.17.12:583][807]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2024.01.27-17.17.12:583][807]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-17.17.12:583][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-17.17.12:583][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-17.17.12:584][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-17.17.12:584][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-17.17.12:584][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-17.17.12:587][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-17.17.12:631][807]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.27-17.17.12:632][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-17.17.12:632][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-17.17.12:632][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-17.17.12:633][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.27-17.17.12:633][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.27-17.17.12:637][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.27-17.17.12:637][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.27-17.17.12:637][807]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.27-17.17.12:637][807]LogAudio: Display: Audio Device (ID: 14) registered with world 'VRTemplateMap'.
+[2024.01.27-17.17.12:637][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.27-17.17.12:703][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.17.13:219][807]LogLoad: Game class is 'VRGameMode_C'
+[2024.01.27-17.17.13:222][807]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.01.27-19.17.13
+[2024.01.27-17.17.13:223][807]LogWorld: Bringing up level for play took: 0.003012
+[2024.01.27-17.17.13:226][807]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.01.27-17.17.13:231][807]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.27-17.17.13:234][807]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.17.13:236][807]vr.PixelDensity = "1"
+[2024.01.27-17.17.13:246][807]PIE: Server logged in
+[2024.01.27-17.17.13:249][807]PIE: Play in editor total start time 0,707 seconds.
+[2024.01.27-17.17.13:261][807]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2024.01.27-17.17.13:270][807]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.27-17.17.13:477][810]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.27-17.20.28:266][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-17.20.28:266][832]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-17.20.28:411][832]LogSlate: Window 'WhackAInquisitor Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.27-17.20.28:415][832]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.20.28:416][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.20.28:426][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-17.20.28:440][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.20.28:478][832]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.27-17.20.28:478][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.27-17.20.28:481][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.27-17.20.28:499][832]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.27-17.20.28:499][832]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.27-17.20.28:504][832]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2024.01.27-17.20.28:777][833]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.27-17.21.02:021][476]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Total job queries 49, among them cache hits 12 (24.49%)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 24 distinct outputs (66.67%)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: RAM used: 1,45 MiB of 819,20 MiB budget. Usage: 0.18%
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Jobs assigned 3, completed 2 (66.67%)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Average time worker was idle: 564.57 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Job execution time: average 3.94 s, max 6.96 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Job life time (pending + execution): average 3.98 s, max 6.96
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Shader code size: average 79,154 KiB, min 74,895 KiB, max 83,414 KiB
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.96 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Average processing rate: 0.25 jobs/sec
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Total thread time: 6,768 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Total thread preprocess time: 1,894 s
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Percentage time preprocessing: 27.98%
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Effective parallelization: 0.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 90.18% of total time (compiled    1 times, average 6.10 sec, max 6.10 sec, min 6.10 sec)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.82% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.01.27-17.21.02:022][476]LogShaderCompilers: Display: ================================================
+[2024.01.27-17.21.09:424][776]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-17.21.09:521][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.21.09:521][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.21.10:566][776]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.01.27-17.21.20:378][ 98]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.21.20:378][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-17.21.29:114][404]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2024.01.27-17.21.29:146][404]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-17.21.29:146][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-17.21.30:134][404]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.01.27-17.21.34:141][540]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-17.21.34:141][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
