@@ -5214,3 +5214,208 @@ The following settings have been applied:
 [2024.01.27-15.18.14:492][491]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.01.27-15.18.14:492][491]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2024.01.27-15.18.14:492][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-15.20.05:919][617]AssetReimport: New page: Outstanding source content changes 19.20.05
+[2024.01.27-15.20.05:956][618]LogEditorFactories: Performing atomic reimport of [C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.png]
+[2024.01.27-15.20.05:972][618]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.png)
+[2024.01.27-15.20.06:077][618]LogEditorFactories: -- imported successfully
+[2024.01.27-15.20.06:171][619]LogEditorFactories: Performing atomic reimport of [C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/hammer.png]
+[2024.01.27-15.20.06:175][619]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/hammer.png)
+[2024.01.27-15.20.06:295][619]LogEditorFactories: -- imported successfully
+[2024.01.27-15.20.06:357][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-15.20.06:635][620]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/inquisitor
+[2024.01.27-15.20.06:636][620]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/inquisitor1287B258420AAE95ECD3CEAC95C4E2F5.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.uasset'
+[2024.01.27-15.20.06:682][620]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/hammer
+[2024.01.27-15.20.06:683][620]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/hammer42B010ED48B710FAAB5AB7934567512E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/hammer.uasset'
+[2024.01.27-15.20.06:699][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 1.11 sec)
+[2024.01.27-15.20.06:712][621]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-15.20.06:712][621]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LevelPrototyping/Textures/inquisitor.inquisitor
+[2024.01.27-15.20.06:712][621]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LevelPrototyping/Textures/hammer.hammer
+[2024.01.27-15.20.09:700][954]AssetReimport: Reimported asset inquisitor from C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.png.
+[2024.01.27-15.20.09:700][954]AssetReimport: Reimported asset hammer from C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/hammer.png.
+[2024.01.27-15.20.35:335][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.27-15.20.35:335][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-15.20.35:335][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-15.20.35:573][592]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2024.01.27-15.27.56:434][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.27-15.27.56:448][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2024.01.27-15.27.56:449][ 19]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto2105CEA004DA1E1A961ACF5871D031B54.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2024.01.27-15.27.56:450][ 19]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.01.27-15.27.56:451][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.038
+[2024.01.27-15.27.56:451][ 19]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.01.27-15.27.56:451][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL] ([2] browsable assets)...
+[2024.01.27-15.27.56:507][ 19]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL]
+[2024.01.27-15.27.56:507][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL]
+[2024.01.27-15.27.56:515][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto2
+[2024.01.27-15.27.56:515][ 19]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/dome_Movement_Spawner_BL_Auto2DDC1420C42254A80985D47A04EC2C4CC.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto2.uasset'
+[2024.01.27-15.27.56:516][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-15.27.56:516][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-15.27.56:519][ 19]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto2
+[2024.01.27-15.27.56:519][ 19]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto2A0A8534B4FB3001BA81EC1B3F12CF4B4.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto2.uasset'
+[2024.01.27-15.27.56:520][ 19]LogFileHelpers: Auto-saving content packages took 0.070
+[2024.01.27-15.38.24:271][688]LogViewport: Scene viewport resized to 970x727, mode Windowed.
+[2024.01.27-15.38.25:640][791]LogViewport: Scene viewport resized to 570x847, mode Windowed.
+[2024.01.27-15.43.17:131][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.27-15.43.17:136][164]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.023
+[2024.01.27-15.43.17:137][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-15.43.17:137][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-15.43.17:140][164]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto3
+[2024.01.27-15.43.17:140][164]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto3A19C75024CA73C953ACECE8424FB6E6D.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto3.uasset'
+[2024.01.27-15.43.17:141][164]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.27-15.45.10:662][279]LogSlate: Took 0.007303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.27-15.53.04:270][ 49]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.27-15.53.04:277][ 49]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.27-15.53.04:882][ 81]LogViewport: Scene viewport resized to 970x727, mode Windowed.
+[2024.01.27-15.53.05:176][ 81]LogViewport: Scene viewport resized to 1165x855, mode Windowed.
+[2024.01.27-15.53.56:789][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.27-15.53.56:798][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.035
+[2024.01.27-15.53.56:798][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-15.53.56:798][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-15.53.56:802][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto4
+[2024.01.27-15.53.56:803][768]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto467B89717413AA35373C53D867A5298F2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto4.uasset'
+[2024.01.27-15.53.56:804][768]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.01.27-15.54.10:042][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-15.54.10:145][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Spawner" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset" SILENT=true
+[2024.01.27-15.54.10:149][306]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Spawner
+[2024.01.27-15.54.10:149][306]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner5D852FF749C7671925CB2183662100BF.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset'
+[2024.01.27-15.54.10:167][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1.23 sec)
+[2024.01.27-15.54.10:168][306]AssetCheck: New page: Asset Save: Spawner
+[2024.01.27-15.54.10:168][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.27-16.04.16:249][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.01.27-16.04.16:257][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.036
+[2024.01.27-16.04.16:257][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-16.04.16:257][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-16.04.16:262][705]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto5
+[2024.01.27-16.04.16:263][705]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto52B2A1134489DDFA1F80924AFDBBB8410.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto5.uasset'
+[2024.01.27-16.04.16:265][705]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.27-16.08.27:471][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint
+[2024.01.27-16.08.27:472][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-16.08.27:472][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-16.14.24:836][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.27-16.14.24:843][ 83]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.025
+[2024.01.27-16.14.24:843][ 83]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/SpawnPoint] ([2] browsable assets)...
+[2024.01.27-16.14.24:843][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/SpawnPoint]
+[2024.01.27-16.14.24:848][ 83]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto6
+[2024.01.27-16.14.24:848][ 83]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint_Auto67736949D4D7BD2894D4EBEBF3577A7CB.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto6.uasset'
+[2024.01.27-16.14.24:849][ 83]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.27-16.15.05:387][205]LogDerivedDataCache: C:/Users/ilmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1119 files in 1814 folders with total size 43 MiB.
+[2024.01.27-16.21.18:966][683]LogViewport: Scene viewport resized to 970x727, mode Windowed.
+[2024.01.27-16.21.19:174][683]LogViewport: Scene viewport resized to 776x582, mode Windowed.
+[2024.01.27-16.21.19:521][683]LogViewport: Scene viewport resized to 1168x900, mode Windowed.
+[2024.01.27-16.27.47:579][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.01.27-16.27.47:582][433]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.025
+[2024.01.27-16.27.47:582][433]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-16.27.47:582][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-16.27.47:586][433]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto7
+[2024.01.27-16.27.47:586][433]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto744760620409B4864ED5AFCB9CD2104AC.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto7.uasset'
+[2024.01.27-16.27.47:587][433]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.27-16.27.54:170][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.01.27-16.27.55:331][584]LogSlate: Window 'Save Content' being destroyed
+[2024.01.27-16.27.55:342][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-16.27.55:539][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.27-16.27.55:556][584]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.01.27-16.27.55:557][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap158AC1E54D733C465319CF96202089A8.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.01.27-16.27.55:566][584]LogFileHelpers: All files are already saved.
+[2024.01.27-16.27.55:566][584]LogFileHelpers: Saving map 'VRTemplateMap' took 0.076
+[2024.01.27-16.27.55:573][584]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/dome
+[2024.01.27-16.27.55:574][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/domeCF9E02D04D5CEC513DD2C6A2C8D261B7.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/dome.uasset'
+[2024.01.27-16.27.55:582][584]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL
+[2024.01.27-16.27.55:582][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/dome_Movement_Spawner_BL87FF53BA43DBB361E1ABC8AD5597CF45.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/dome_Movement_Spawner_BL.uasset'
+[2024.01.27-16.27.55:593][584]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.01.27-16.27.55:594][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Projectile7039ACBC495AC4AD17B3EEA6D45FE917.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.01.27-16.27.55:595][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Spawner" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset" SILENT=true
+[2024.01.27-16.27.55:600][584]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Spawner
+[2024.01.27-16.27.55:600][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnerBD7401754ADB32299BC542BC4BCE0D9E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset'
+[2024.01.27-16.27.55:605][584]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/SpawnPoint
+[2024.01.27-16.27.55:606][584]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint0213B0A14B0F6A1CA333BCB1AE2DFAC3.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/SpawnPoint.uasset'
+[2024.01.27-16.27.55:617][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 1.51 sec)
+[2024.01.27-16.27.55:623][584]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/dome.dome
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.27-16.27.55:623][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint
+[2024.01.27-16.38.54:513][954]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetArrayLibrary::Array_Shuffle' [The specified module could not be found.]
+[2024.01.27-16.41.46:332][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.01.27-16.41.46:336][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.029
+[2024.01.27-16.41.46:337][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/SpawnPoint] ([2] browsable assets)...
+[2024.01.27-16.41.46:337][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/SpawnPoint]
+[2024.01.27-16.41.46:341][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto8
+[2024.01.27-16.41.46:341][391]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint_Auto8F77558AF4D0BC833068D6388A7588FC8.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto8.uasset'
+[2024.01.27-16.41.46:342][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-16.41.46:342][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-16.41.46:347][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto8
+[2024.01.27-16.41.46:347][391]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto8040BE93D42B135B0C178679C40648E71.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto8.uasset'
+[2024.01.27-16.41.46:347][391]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.01.27-16.45.53:139][311]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-16.48.05:401][428]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.27-16.48.11:606][639]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-16.48.11:621][639]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-16.48.32:048][444]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.48.32:052][444]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Can't connect pins  Out Actors  and  Spawn Locations : Array of Spawn Point Object References is not compatible with Array of Transforms.
+[2024.01.27-16.48.32:054][444]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.48.32:055][444]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Can't connect pins  Spawn Locations  and  Out Actors : Array of Transforms is not compatible with Array of Spawn Point Object References.
+[2024.01.27-16.48.32:116][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.01.27-16.48.42:396][742]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.27-16.48.46:025][848]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-16.48.46:039][848]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-16.48.47:043][880]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.48.47:047][880]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Can't connect pins  Out Actors  and  Spawn Locations : Array of Spawn Point Object References is not compatible with Array of Vectors.
+[2024.01.27-16.48.47:047][880]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.48.47:047][880]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Can't connect pins  Spawn Locations  and  Out Actors : Array of Vectors is not compatible with Array of Spawn Point Object References.
+[2024.01.27-16.48.47:104][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.01.27-16.51.02:732][ 21]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.27-16.51.18:741][574]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.18:745][574]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.51.18:745][574]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] In use pin  Spawn Locations  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.01.27-16.51.18:746][574]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Default value '' for  Spawn Locations  is invalid: 'Array inputs (like 'Spawn Locations') must have an input wired into them (try connecting a MakeArray node).'
+[2024.01.27-16.51.18:903][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.01.27-16.51.24:287][765]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.24:291][765]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.51.24:291][765]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] In use pin  Spawn Locations  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.01.27-16.51.24:292][765]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Default value '' for  Spawn Locations  is invalid: 'Array inputs (like 'Spawn Locations') must have an input wired into them (try connecting a MakeArray node).'
+[2024.01.27-16.51.24:444][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.01.27-16.51.25:123][788]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.25:127][788]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.51.25:127][788]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] In use pin  Spawn Locations  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.01.27-16.51.25:128][788]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Default value '' for  Spawn Locations  is invalid: 'Array inputs (like 'Spawn Locations') must have an input wired into them (try connecting a MakeArray node).'
+[2024.01.27-16.51.25:280][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.27-16.51.25:402][789]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.25:405][789]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.51.25:405][789]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] In use pin  Spawn Locations  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.01.27-16.51.25:406][789]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Default value '' for  Spawn Locations  is invalid: 'Array inputs (like 'Spawn Locations') must have an input wired into them (try connecting a MakeArray node).'
+[2024.01.27-16.51.25:552][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.01.27-16.51.25:670][790]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.25:673][790]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Spawn Locations '. You may have changed the type after the connections were made.
+[2024.01.27-16.51.25:673][790]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] In use pin  Spawn Locations  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.01.27-16.51.25:674][790]LogBlueprint: Error: [AssetLog] C:\Users\ilmar\OneDrive\Documents\GitHub\FGJ\WhackAInquisitor\Content\LevelPrototyping\Spawner.uasset: [Compiler] Default value '' for  Spawn Locations  is invalid: 'Array inputs (like 'Spawn Locations') must have an input wired into them (try connecting a MakeArray node).'
+[2024.01.27-16.51.25:818][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.27-16.51.39:725][285]BlueprintLog: New page: Compile Spawner
+[2024.01.27-16.51.39:886][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.27-16.54.31:819][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.01.27-16.54.31:829][470]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.157
+[2024.01.27-16.54.31:830][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/SpawnPoint] ([2] browsable assets)...
+[2024.01.27-16.54.31:830][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/SpawnPoint]
+[2024.01.27-16.54.31:834][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto9
+[2024.01.27-16.54.31:835][470]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint_Auto91A5442EC49BDCD16F38BB2A3FEA716E2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto9.uasset'
+[2024.01.27-16.54.31:837][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-16.54.31:838][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-16.54.31:846][470]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto9
+[2024.01.27-16.54.31:846][470]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto9BD95BD4B44E473B6638D029D4992BF64.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto9.uasset'
+[2024.01.27-16.54.31:848][470]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.01.27-16.56.19:549][852]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::RandomInteger' [The specified module could not be found.]
+[2024.01.27-17.00.04:323][793]LogEditorTransaction: Undo Move Node
+[2024.01.27-17.04.43:918][548]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.27-17.05.21:742][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.27-17.05.21:747][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.134
+[2024.01.27-17.05.21:748][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/SpawnPoint] ([2] browsable assets)...
+[2024.01.27-17.05.21:748][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/SpawnPoint]
+[2024.01.27-17.05.21:752][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto0
+[2024.01.27-17.05.21:752][ 48]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint_Auto0C36619904963D15037EE53997B23525A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto0.uasset'
+[2024.01.27-17.05.21:754][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-17.05.21:754][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-17.05.21:762][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto0
+[2024.01.27-17.05.21:762][ 48]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto00F74A83243610F528CB6258F1863DBFD.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto0.uasset'
+[2024.01.27-17.05.21:764][ 48]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.01.27-17.06.06:827][867]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.27-17.06.06:844][867]LogSlate: Window 'Find in Blueprints' being destroyed
