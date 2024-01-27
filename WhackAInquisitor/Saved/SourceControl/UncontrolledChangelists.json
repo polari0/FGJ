@@ -7,6 +7,14 @@
 			"files": [
 				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/dome.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/hammer.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Materials/DomeMaterial.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/dome.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/dome_Mat.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/Material_001.uasset",
+				"C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/Pistol.uasset",
 				"C:/Users/ilmar/OneDrive/Documents/Unreal Projects/WhackAInquisitor/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
