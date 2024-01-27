@@ -5963,3 +5963,108 @@ Script Stack (0 frames) :
 [2024.01.27-17.52.56:520][749]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.01.27-17.52.56:525][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
 [2024.01.27-17.52.56:816][750]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.01.27-17.53.56:583][302]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2024.01.27-17.53.56:634][303]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2188
+[2024.01.27-17.53.56:801][306]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{56b576b9-dbed-4c04-af80-ac0718bf8f8b}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=112.88
+[2024.01.27-17.53.56:801][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.27-17.53.56:808][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.27-18.00.08:194][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.27-18.00.08:200][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.026
+[2024.01.27-18.00.08:200][249]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.27-18.00.08:200][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.27-18.00.08:205][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto4
+[2024.01.27-18.00.08:206][249]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto490921BFA4FC1CD02F275B29342DD538C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto4.uasset'
+[2024.01.27-18.00.08:207][249]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.27-18.05.15:810][732]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.27-18.05.15:819][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-18.05.15:819][732]PIE: New page: PIE session: VRTemplateMap (27.1.2024 klo 22.05.15)
+[2024.01.27-18.05.15:819][732]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-18.05.15:822][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
+[2024.01.27-18.05.15:822][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.003467s)
+[2024.01.27-18.05.15:842][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.01.27-18.05.15:846][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-18.05.15:846][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-18.05.15:846][732]LogAIModule: Creating AISystem for world VRTemplateMap
+[2024.01.27-18.05.15:847][732]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2024.01.27-18.05.15:847][732]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.27-18.05.15:847][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-18.05.15:847][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-18.05.15:847][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-18.05.15:847][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-18.05.15:847][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-18.05.15:849][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-18.05.15:868][732]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.01.27-18.05.15:868][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-18.05.15:868][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-18.05.15:868][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-18.05.15:869][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.01.27-18.05.15:869][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.01.27-18.05.15:872][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.01.27-18.05.15:872][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.01.27-18.05.15:872][732]LogInit: FAudioDevice initialized with ID 17.
+[2024.01.27-18.05.15:872][732]LogAudio: Display: Audio Device (ID: 17) registered with world 'VRTemplateMap'.
+[2024.01.27-18.05.15:872][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.27-18.05.15:915][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-18.05.16:369][732]LogLoad: Game class is 'VRGameMode_C'
+[2024.01.27-18.05.16:371][732]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2024.01.27-20.05.16
+[2024.01.27-18.05.16:371][732]LogWorld: Bringing up level for play took: 0.001506
+[2024.01.27-18.05.16:374][732]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.27-18.05.16:377][732]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.27-18.05.16:380][732]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.27-18.05.16:381][732]vr.PixelDensity = "1"
+[2024.01.27-18.05.16:393][732]PIE: Server logged in
+[2024.01.27-18.05.16:398][732]PIE: Play in editor total start time 0,58 seconds.
+[2024.01.27-18.05.16:423][732]LogViewport: Scene viewport resized to 4128x2096, mode Windowed.
+[2024.01.27-18.05.16:429][732]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.27-18.05.16:575][734]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.27-18.08.37:731][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-18.08.37:731][651]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2024.01.27-18.08.37:863][651]LogSlate: Window 'WhackAInquisitor Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.27-18.08.37:866][651]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-18.08.37:867][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-18.08.37:872][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-18.08.37:879][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-18.08.37:907][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-18.08.37:908][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.27-18.08.37:908][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.27-18.08.37:913][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.27-18.08.37:927][651]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.27-18.08.37:927][651]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.27-18.08.37:930][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.01.27-18.08.38:113][652]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.27-18.09.04:447][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-18.09.04:586][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjectToSpawn" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset" SILENT=true
+[2024.01.27-18.09.04:592][ 31]LogSavePackage: Moving output files for package: /Game/ObjectToSpawn
+[2024.01.27-18.09.04:593][ 31]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn85B7C981488D6608DCCDC59D97CC1ACE.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset'
+[2024.01.27-18.09.04:607][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 2.01 sec)
+[2024.01.27-18.09.04:609][ 31]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.27-18.09.04:609][ 31]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-18.09.06:324][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-18.09.06:453][120]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Projectile
+[2024.01.27-18.09.06:454][120]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ProjectileDECA1CF747100E82209B0BBE58A569CB.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Blueprints/Projectile.uasset'
+[2024.01.27-18.09.06:466][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 2.15 sec)
+[2024.01.27-18.09.06:468][120]AssetCheck: New page: Asset Save: Projectile
+[2024.01.27-18.09.06:468][120]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/Projectile.Projectile
+[2024.01.27-18.09.31:317][456]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-18.10.04:073][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-18.10.04:201][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjectToSpawn" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset" SILENT=true
+[2024.01.27-18.10.04:206][129]LogSavePackage: Moving output files for package: /Game/ObjectToSpawn
+[2024.01.27-18.10.04:207][129]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawnF8BCCDA9412EC6B4D1B085806AD5ED1E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset'
+[2024.01.27-18.10.04:220][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 2.29 sec)
+[2024.01.27-18.10.04:222][129]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.27-18.10.04:222][129]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObjectToSpawn.ObjectToSpawn
+[2024.01.27-18.10.07:347][286]BlueprintLog: New page: Compile ObjectToSpawn
+[2024.01.27-18.10.07:399][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.27-18.10.09:379][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-18.10.09:513][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ObjectToSpawn" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset" SILENT=true
+[2024.01.27-18.10.09:518][377]LogSavePackage: Moving output files for package: /Game/ObjectToSpawn
+[2024.01.27-18.10.09:519][377]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn56439C274185E2803E6A448429AB4904.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/ObjectToSpawn.uasset'
+[2024.01.27-18.10.09:532][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 2.45 sec)
+[2024.01.27-18.10.09:533][377]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.27-18.10.09:533][377]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObjectToSpawn.ObjectToSpawn
