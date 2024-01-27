@@ -1653,3 +1653,182 @@ The following settings have been applied:
 [2024.01.27-13.26.31:027][829]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2024.01.27-13.26.31:027][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.01.27-13.26.47:360][558]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.27-13.27.33:235][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.27-13.27.33:258][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2024.01.27-13.27.33:259][462]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto3CEB6A5114F64E11ECAC1DFA18B443102.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2024.01.27-13.27.33:261][462]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap is in the /Temp path, will not scan.
+[2024.01.27-13.27.33:261][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.050
+[2024.01.27-13.27.33:261][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.01.27-13.27.33:262][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/dome] ([1] browsable assets)...
+[2024.01.27-13.27.33:338][462]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/dome.dome]
+[2024.01.27-13.27.33:338][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/dome]
+[2024.01.27-13.27.33:354][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/dome_Auto3
+[2024.01.27-13.27.33:354][462]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/dome_Auto34D4A4B4346DDAD4C9563F7A0285C9B25.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/dome_Auto3.uasset'
+[2024.01.27-13.27.33:356][462]LogFileHelpers: Auto-saving content packages took 0.095
+[2024.01.27-13.27.45:158][498]AssetReimport: New page: Outstanding source content changes 17.27.45
+[2024.01.27-13.27.45:179][498]LogSlate: Took 0.008133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.27-13.27.45:258][499]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.png)
+[2024.01.27-13.27.45:460][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-13.27.45:810][500]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/inquisitor
+[2024.01.27-13.27.45:810][500]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/inquisitor2F556ADB4BE50C1870D606AE18066004.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/inquisitor.uasset'
+[2024.01.27-13.27.45:837][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 377 ms
+[2024.01.27-13.27.45:860][501]AssetCheck: New page: Asset Save: inquisitor
+[2024.01.27-13.27.45:860][501]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LevelPrototyping/Textures/inquisitor.inquisitor
+[2024.01.27-13.27.48:850][756]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/inquisitor.
+[2024.01.27-13.30.09:595][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.09:595][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.09:595][170]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2024.01.27-13.30.20:112][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.20:112][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.20:112][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_2
+[2024.01.27-13.30.24:751][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.24:751][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2024.01.27-13.30.24:752][915]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4
+[2024.01.27-13.30.45:572][135]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.27-13.30.54:048][929]Cmd: EDIT CUT
+[2024.01.27-13.30.54:052][929]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.27-13.30.54:076][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.01.27-13.30.54:083][929]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.01.27-13.31.19:220][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: ================================================
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: Total job queries 24, among them cache hits 3 (12.50%)
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 14 distinct outputs (66.67%)
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: RAM used: 811,17 KiB of 819,20 MiB budget. Usage: 0.10%
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.27-13.31.19:265][869]LogShaderCompilers: Display: ================================================
+[2024.01.27-13.31.19:460][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.31.19:602][875]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.32.05:051][255]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.27-13.32.05:066][255]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.27-13.32.05:075][255]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.27-13.32.05:092][256]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.27-13.32.10:319][861]LogContentBrowser: Attempting asset rename: NewBlueprint -> SpawnPoint
+[2024.01.27-13.32.10:328][861]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.27-13.32.38:590][948]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint_C
+[2024.01.27-13.32.38:591][948]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint_C
+[2024.01.27-13.32.38:592][948]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SpawnPoint_C_0
+[2024.01.27-13.32.38:592][948]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SpawnPoint_C_0
+[2024.01.27-13.32.40:516][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint_C
+[2024.01.27-13.32.40:516][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint_C
+[2024.01.27-13.32.40:518][149]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SpawnPoint_C_1
+[2024.01.27-13.32.40:518][149]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint as actor: SpawnPoint_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.SpawnPoint_C_1
+[2024.01.27-13.33.16:859][250]LogViewport: Scene viewport resized to 1205x855, mode Windowed.
+[2024.01.27-13.33.16:879][251]LogViewport: Scene viewport resized to 1207x855, mode Windowed.
+[2024.01.27-13.33.16:899][252]LogViewport: Scene viewport resized to 1211x855, mode Windowed.
+[2024.01.27-13.33.16:920][253]LogViewport: Scene viewport resized to 1212x855, mode Windowed.
+[2024.01.27-13.33.16:940][254]LogViewport: Scene viewport resized to 1215x855, mode Windowed.
+[2024.01.27-13.33.16:961][255]LogViewport: Scene viewport resized to 1218x855, mode Windowed.
+[2024.01.27-13.33.16:981][256]LogViewport: Scene viewport resized to 1221x855, mode Windowed.
+[2024.01.27-13.33.17:001][257]LogViewport: Scene viewport resized to 1224x855, mode Windowed.
+[2024.01.27-13.33.17:022][258]LogViewport: Scene viewport resized to 1226x855, mode Windowed.
+[2024.01.27-13.33.17:043][259]LogViewport: Scene viewport resized to 1228x855, mode Windowed.
+[2024.01.27-13.33.17:066][260]LogViewport: Scene viewport resized to 1230x855, mode Windowed.
+[2024.01.27-13.33.17:094][262]LogViewport: Scene viewport resized to 1231x855, mode Windowed.
+[2024.01.27-13.33.17:171][270]LogViewport: Scene viewport resized to 1233x855, mode Windowed.
+[2024.01.27-13.33.17:191][271]LogViewport: Scene viewport resized to 1234x855, mode Windowed.
+[2024.01.27-13.33.17:211][272]LogViewport: Scene viewport resized to 1242x855, mode Windowed.
+[2024.01.27-13.33.17:231][273]LogViewport: Scene viewport resized to 1246x855, mode Windowed.
+[2024.01.27-13.33.17:251][274]LogViewport: Scene viewport resized to 1248x855, mode Windowed.
+[2024.01.27-13.33.17:312][280]LogViewport: Scene viewport resized to 1250x855, mode Windowed.
+[2024.01.27-13.33.17:415][291]LogViewport: Scene viewport resized to 1252x855, mode Windowed.
+[2024.01.27-13.33.17:434][292]LogViewport: Scene viewport resized to 1253x855, mode Windowed.
+[2024.01.27-13.33.19:241][502]LogViewport: Scene viewport resized to 1252x855, mode Windowed.
+[2024.01.27-13.33.19:261][503]LogViewport: Scene viewport resized to 1247x855, mode Windowed.
+[2024.01.27-13.33.19:281][504]LogViewport: Scene viewport resized to 1237x855, mode Windowed.
+[2024.01.27-13.33.19:302][505]LogViewport: Scene viewport resized to 1226x855, mode Windowed.
+[2024.01.27-13.33.19:323][506]LogViewport: Scene viewport resized to 1213x855, mode Windowed.
+[2024.01.27-13.33.19:343][507]LogViewport: Scene viewport resized to 1207x855, mode Windowed.
+[2024.01.27-13.33.19:363][508]LogViewport: Scene viewport resized to 1202x855, mode Windowed.
+[2024.01.27-13.33.19:383][509]LogViewport: Scene viewport resized to 1199x855, mode Windowed.
+[2024.01.27-13.33.19:403][510]LogViewport: Scene viewport resized to 1195x855, mode Windowed.
+[2024.01.27-13.33.19:439][513]LogViewport: Scene viewport resized to 1193x855, mode Windowed.
+[2024.01.27-13.33.19:459][514]LogViewport: Scene viewport resized to 1191x855, mode Windowed.
+[2024.01.27-13.33.19:480][515]LogViewport: Scene viewport resized to 1188x855, mode Windowed.
+[2024.01.27-13.33.19:500][516]LogViewport: Scene viewport resized to 1185x855, mode Windowed.
+[2024.01.27-13.33.19:520][517]LogViewport: Scene viewport resized to 1181x855, mode Windowed.
+[2024.01.27-13.33.19:541][518]LogViewport: Scene viewport resized to 1178x855, mode Windowed.
+[2024.01.27-13.33.19:561][519]LogViewport: Scene viewport resized to 1173x855, mode Windowed.
+[2024.01.27-13.33.19:580][520]LogViewport: Scene viewport resized to 1168x855, mode Windowed.
+[2024.01.27-13.33.19:603][521]LogViewport: Scene viewport resized to 1165x855, mode Windowed.
+[2024.01.27-13.34.12:649][488]Cmd: MODE GRID=0
+[2024.01.27-13.34.46:861][134]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/SpawnPoint.SpawnPoint
+[2024.01.27-13.34.46:862][134]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.34.46:863][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.34.47:145][134]LogViewport: Scene viewport resized to 1234x869, mode Windowed.
+[2024.01.27-13.34.48:720][198]LogViewport: Scene viewport resized to 984x661, mode Windowed.
+[2024.01.27-13.34.48:969][198]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-13.35.42:944][588]Cmd: EDIT COPY
+[2024.01.27-13.35.43:169][602]Cmd: EDIT PASTE
+[2024.01.27-13.35.43:679][632]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:016][650]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:337][668]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:494][675]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:649][682]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:805][689]Cmd: EDIT PASTE
+[2024.01.27-13.35.44:978][697]Cmd: EDIT PASTE
+[2024.01.27-13.35.45:576][731]Cmd: EDIT PASTE
+[2024.01.27-13.36.14:443][466]Cmd: EDIT COPY
+[2024.01.27-13.36.14:734][484]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:026][499]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:190][506]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:340][512]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:510][519]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:662][525]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:815][531]Cmd: EDIT PASTE
+[2024.01.27-13.36.15:934][534]Cmd: EDIT PASTE
+[2024.01.27-13.36.16:266][549]Cmd: EDIT PASTE
+[2024.01.27-13.36.16:427][555]Cmd: EDIT PASTE
+[2024.01.27-13.36.16:885][577]Cmd: EDIT PASTE
+[2024.01.27-13.36.17:422][604]Cmd: EDIT PASTE
+[2024.01.27-13.36.17:715][618]Cmd: EDIT PASTE
+[2024.01.27-13.36.18:118][639]Cmd: EDIT PASTE
+[2024.01.27-13.36.18:618][666]Cmd: EDIT PASTE
+[2024.01.27-13.46.50:843][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.27-13.46.50:863][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4
+[2024.01.27-13.46.50:864][918]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto493334D344955971F395ED6A773A2F93C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2024.01.27-13.46.50:866][918]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap is in the /Temp path, will not scan.
+[2024.01.27-13.46.50:866][918]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.089
+[2024.01.27-13.46.50:866][918]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2024.01.27-13.46.50:867][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/SpawnPoint] ([2] browsable assets)...
+[2024.01.27-13.46.50:867][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/SpawnPoint]
+[2024.01.27-13.46.50:873][918]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto4
+[2024.01.27-13.46.50:873][918]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnPoint_Auto44EB165F04456AD4A99B6B79BCEBB21A1.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/SpawnPoint_Auto4.uasset'
+[2024.01.27-13.46.50:874][918]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.27-13.52.59:559][200]EditorErrors: New page: Actor attachment
+[2024.01.27-13.53.04:458][500]LogEditorViewport: Clicking Background
+[2024.01.27-13.55.13:683][191]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2024.01.27-13.55.13:702][191]LogActorComponent: UnregisterComponent: (/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.Default__dome_Movement_Spawner_BL_C:StaticMeshComponent0) Not registered. Aborting.
+[2024.01.27-13.55.13:727][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.01.27-13.55.13:796][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL
+[2024.01.27-13.55.13:796][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.55.13:796][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-13.55.13:971][191]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.27-13.56.51:293][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.27-13.56.51:312][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5
+[2024.01.27-13.56.51:312][532]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto55833B158436B4DF26B8CF9AA455662DF.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap'
+[2024.01.27-13.56.51:314][532]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap is in the /Temp path, will not scan.
+[2024.01.27-13.56.51:314][532]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5 is in the /Temp path, will not scan.
+[2024.01.27-13.56.51:314][532]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5 is in the /Temp path, will not scan.
+[2024.01.27-13.56.51:314][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.040
+[2024.01.27-13.56.51:314][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2024.01.27-13.56.51:315][532]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL] ([2] browsable assets)...
+[2024.01.27-13.56.51:315][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.56.51:413][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL]
+[2024.01.27-13.56.51:414][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-13.56.51:430][532]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL_C]
+[2024.01.27-13.56.51:430][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL]
+[2024.01.27-13.56.51:434][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto5
+[2024.01.27-13.56.51:434][532]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/dome_Movement_Spawner_BL_Auto591A3123B4C61FF6EF391DAA7FC723E70.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto5.uasset'
+[2024.01.27-13.56.51:436][532]LogFileHelpers: Auto-saving content packages took 0.121
+[2024.01.27-14.06.52:194][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2024.01.27-14.06.52:198][128]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.029
+[2024.01.27-14.06.52:198][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL] ([2] browsable assets)...
+[2024.01.27-14.06.52:267][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL]
+[2024.01.27-14.06.52:267][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL]
+[2024.01.27-14.06.52:272][128]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto6
+[2024.01.27-14.06.52:272][128]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/dome_Movement_Spawner_BL_Auto641EBDA784250BE9CA7A9FC8672D1997A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL_Auto6.uasset'
+[2024.01.27-14.06.52:274][128]LogFileHelpers: Auto-saving content packages took 0.076
