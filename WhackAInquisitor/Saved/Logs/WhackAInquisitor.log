@@ -5885,3 +5885,658 @@ The following settings have been applied:
 [2024.01.28-09.01.08:512][295]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.01.28-09.01.08:512][295]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
 [2024.01.28-09.01.08:512][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.01.34:556][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.28-09.01.34:561][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.024
+[2024.01.28-09.01.34:562][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child7] ([2] browsable assets)...
+[2024.01.28-09.01.34:572][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child7.ObjectToSpawn_Child7]
+[2024.01.28-09.01.34:572][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child7]
+[2024.01.28-09.01.34:576][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto4
+[2024.01.28-09.01.34:576][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child7_Auto4F98019D5499A34CA9B679B8EF15F0922.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto4.uasset'
+[2024.01.28-09.01.34:577][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child8] ([2] browsable assets)...
+[2024.01.28-09.01.34:581][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child8.ObjectToSpawn_Child8]
+[2024.01.28-09.01.34:581][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child8]
+[2024.01.28-09.01.34:584][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child8_Auto4
+[2024.01.28-09.01.34:584][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child8_Auto40202167F4382AF30C564828016539456.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child8_Auto4.uasset'
+[2024.01.28-09.01.34:585][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child9] ([2] browsable assets)...
+[2024.01.28-09.01.34:590][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child9.ObjectToSpawn_Child9]
+[2024.01.28-09.01.34:590][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child9]
+[2024.01.28-09.01.34:592][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto4
+[2024.01.28-09.01.34:593][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child9_Auto48FA3F30E44B52B9C5890AA9061277120.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto4.uasset'
+[2024.01.28-09.01.34:594][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child10] ([2] browsable assets)...
+[2024.01.28-09.01.34:598][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child10.ObjectToSpawn_Child10]
+[2024.01.28-09.01.34:598][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child10]
+[2024.01.28-09.01.34:601][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto4
+[2024.01.28-09.01.34:601][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child10_Auto4572BF3FF4C6885FC5264C0A13220582F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto4.uasset'
+[2024.01.28-09.01.34:602][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child11] ([2] browsable assets)...
+[2024.01.28-09.01.34:606][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child11.ObjectToSpawn_Child11]
+[2024.01.28-09.01.34:606][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child11]
+[2024.01.28-09.01.34:610][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto4
+[2024.01.28-09.01.34:610][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child11_Auto4A9AA5A5B4E51166BF65B919DAF37305F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto4.uasset'
+[2024.01.28-09.01.34:610][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child12] ([2] browsable assets)...
+[2024.01.28-09.01.34:615][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child12.ObjectToSpawn_Child12]
+[2024.01.28-09.01.34:615][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child12]
+[2024.01.28-09.01.34:618][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto4
+[2024.01.28-09.01.34:618][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child12_Auto4479010374F5A6C3A2AE98089410B345F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto4.uasset'
+[2024.01.28-09.01.34:619][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child13] ([2] browsable assets)...
+[2024.01.28-09.01.34:624][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child13.ObjectToSpawn_Child13]
+[2024.01.28-09.01.34:624][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child13]
+[2024.01.28-09.01.34:627][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto4
+[2024.01.28-09.01.34:627][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child13_Auto4FF5A5EE14B6CEFC546145F87FA51B824.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto4.uasset'
+[2024.01.28-09.01.34:628][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child14] ([2] browsable assets)...
+[2024.01.28-09.01.34:632][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child14.ObjectToSpawn_Child14]
+[2024.01.28-09.01.34:632][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child14]
+[2024.01.28-09.01.34:636][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto4
+[2024.01.28-09.01.34:636][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child14_Auto4CAE2D3CF46E04B421A42AFB1AEE48B48.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto4.uasset'
+[2024.01.28-09.01.34:637][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child15] ([2] browsable assets)...
+[2024.01.28-09.01.34:641][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child15.ObjectToSpawn_Child15]
+[2024.01.28-09.01.34:641][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child15]
+[2024.01.28-09.01.34:645][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto4
+[2024.01.28-09.01.34:645][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child15_Auto41D4BB2754A5D07542133C3B47A02443A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto4.uasset'
+[2024.01.28-09.01.34:646][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child16] ([2] browsable assets)...
+[2024.01.28-09.01.34:650][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child16.ObjectToSpawn_Child16]
+[2024.01.28-09.01.34:650][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child16]
+[2024.01.28-09.01.34:654][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto4
+[2024.01.28-09.01.34:654][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child16_Auto41C8A772445A7E75EB2589CA0A64A01AE.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto4.uasset'
+[2024.01.28-09.01.34:654][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child17] ([2] browsable assets)...
+[2024.01.28-09.01.34:659][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child17.ObjectToSpawn_Child17]
+[2024.01.28-09.01.34:659][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child17]
+[2024.01.28-09.01.34:662][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto4
+[2024.01.28-09.01.34:662][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child17_Auto4DE3795084963A74418CC21B5115CEBEA.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto4.uasset'
+[2024.01.28-09.01.34:663][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child18] ([2] browsable assets)...
+[2024.01.28-09.01.34:670][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child18.ObjectToSpawn_Child18]
+[2024.01.28-09.01.34:670][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child18]
+[2024.01.28-09.01.34:673][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto4
+[2024.01.28-09.01.34:673][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child18_Auto4D510A95444AFA222565C998EEDB37D9E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto4.uasset'
+[2024.01.28-09.01.34:674][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child19] ([2] browsable assets)...
+[2024.01.28-09.01.34:679][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child19.ObjectToSpawn_Child19]
+[2024.01.28-09.01.34:679][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child19]
+[2024.01.28-09.01.34:682][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto4
+[2024.01.28-09.01.34:682][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child19_Auto4248DA26D4B731E4CF21553A89E80C67A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto4.uasset'
+[2024.01.28-09.01.34:683][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child20] ([2] browsable assets)...
+[2024.01.28-09.01.34:687][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child20.ObjectToSpawn_Child20]
+[2024.01.28-09.01.34:687][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child20]
+[2024.01.28-09.01.34:691][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto4
+[2024.01.28-09.01.34:691][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child20_Auto42007A19F4566FB5464842B937E3CB784.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto4.uasset'
+[2024.01.28-09.01.34:692][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child21] ([2] browsable assets)...
+[2024.01.28-09.01.34:696][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child21.ObjectToSpawn_Child21]
+[2024.01.28-09.01.34:696][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child21]
+[2024.01.28-09.01.34:699][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto4
+[2024.01.28-09.01.34:699][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child21_Auto4135F8C63445E0D73BAA177BDFDF0C292.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto4.uasset'
+[2024.01.28-09.01.34:700][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child22] ([2] browsable assets)...
+[2024.01.28-09.01.34:704][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child22.ObjectToSpawn_Child22]
+[2024.01.28-09.01.34:704][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child22]
+[2024.01.28-09.01.34:708][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto4
+[2024.01.28-09.01.34:708][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child22_Auto404E5827B40FD55DEFE8981A177CD9E58.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto4.uasset'
+[2024.01.28-09.01.34:709][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child23] ([2] browsable assets)...
+[2024.01.28-09.01.34:714][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child23.ObjectToSpawn_Child23]
+[2024.01.28-09.01.34:714][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child23]
+[2024.01.28-09.01.34:717][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto4
+[2024.01.28-09.01.34:717][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child23_Auto423199E7C4D2F5CA516B820961C5E9AE7.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto4.uasset'
+[2024.01.28-09.01.34:718][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child24] ([2] browsable assets)...
+[2024.01.28-09.01.34:723][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child24.ObjectToSpawn_Child24]
+[2024.01.28-09.01.34:723][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child24]
+[2024.01.28-09.01.34:726][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto4
+[2024.01.28-09.01.34:726][450]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child24_Auto4874D72CC46994522B871C0A50552B36E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto4.uasset'
+[2024.01.28-09.01.34:726][450]LogFileHelpers: Auto-saving content packages took 0.166
+[2024.01.28-09.01.52:281][508]AssetReimport: New page: Outstanding source content changes 13.01.52
+[2024.01.28-09.01.52:319][509]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/redFabric.png)
+[2024.01.28-09.01.52:334][509]LogTexture: Display: Building textures: /Game/LevelPrototyping/Textures/redFabric.redFabric (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.01.28-09.01.52:378][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.01.52:762][510]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/redFabric
+[2024.01.28-09.01.52:762][510]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/redFabricF4A751DB4969CB6A9C399EB99B805083.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/redFabric.uasset'
+[2024.01.28-09.01.52:836][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 458 ms (total: 19.5 sec)
+[2024.01.28-09.01.52:859][511]AssetCheck: New page: Asset Save: redFabric
+[2024.01.28-09.01.52:859][511]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LevelPrototyping/Textures/redFabric.redFabric
+[2024.01.28-09.01.55:837][666]AssetReimport: Importing new asset /Game/LevelPrototyping/Textures/redFabric.
+[2024.01.28-09.01.59:597][860]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/LevelPrototyping/Meshes/velvet.velvet
+[2024.01.28-09.01.59:602][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.01.59:602][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.01.59:721][860]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.01.59:721][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.01.59:721][860]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.01.59:740][860]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: ================================================
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Total job queries 1 031, among them cache hits 865 (83.90%)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Tracking 166 distinct input hashes that result in 101 distinct outputs (60.84%)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: RAM used: 6,67 MiB of 819,20 MiB budget. Usage: 0.81%
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Shaders Compiled: 116
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Jobs assigned 116, completed 116 (100%)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Average time worker was idle: 206.88 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Time job spent in pending queue: average 0.47 s, longest 4.40 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Job execution time: average 1.93 s, max 3.76 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Job life time (pending + execution): average 2.40 s, max 7.05
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Shader code size: average 74,351 KiB, min 4,633 KiB, max 93,809 KiB
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 57.88 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Jobs were issued in 116 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Total thread time: 202,7 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Total thread preprocess time: 5,473 s
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Percentage time preprocessing: 2.70%
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Effective parallelization: 3.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 3.14 sec, max 3.41 sec, min 3.00 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 3.13 sec, max 3.32 sec, min 2.94 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 3.12 sec, max 3.27 sec, min 2.98 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 3.09 sec, max 3.32 sec, min 2.90 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 3.08 sec, max 3.28 sec, min 2.73 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.19% of total time (compiled   12 times, average 2.06 sec, max 3.33 sec, min 0.41 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.82% of total time (compiled    9 times, average 2.66 sec, max 2.86 sec, min 2.35 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.84% of total time (compiled    7 times, average 3.14 sec, max 3.41 sec, min 3.00 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.81% of total time (compiled    7 times, average 3.13 sec, max 3.32 sec, min 2.94 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.77% of total time (compiled    7 times, average 3.12 sec, max 3.27 sec, min 2.98 sec)
+[2024.01.28-09.01.59:767][861]LogShaderCompilers: Display: ================================================
+[2024.01.28-09.01.59:787][862]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.01.28-09.01.59:788][862]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-09.01.59:788][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.01.59:788][862]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.02.05:785][207]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.05:785][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.02.05:785][207]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.05:835][209]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.01.28-09.02.05:835][209]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-09.02.05:835][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.02.05:835][209]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.02.14:443][671]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.14:443][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.02.14:443][671]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.14:518][673]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.01.28-09.02.14:518][673]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.28-09.02.14:518][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.28-09.02.14:518][673]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.02.16:799][779]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.16:799][779]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.16:799][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.16:799][779]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.16:912][781]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.16:912][781]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-09.02.16:912][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.16:912][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.16:912][781]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.02.28:090][369]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.28:090][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.28:090][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.28:090][369]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.28:138][370]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.28:138][370]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-09.02.28:138][370]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.28:138][370]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.28:138][370]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.02.31:993][571]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.31:993][571]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.31:993][571]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.31:993][571]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.32:901][605]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.32:901][605]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.28-09.02.32:901][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.32:901][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.32:901][605]MaterialEditorStats: Shader Count: 3
+[2024.01.28-09.02.34:825][705]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.34:825][705]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-09.02.34:825][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.34:825][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.34:825][705]MaterialEditorStats: Shader Count: 4
+[2024.01.28-09.02.46:761][349]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.46:761][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.46:761][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.46:761][349]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.46:802][351]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.46:802][351]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-09.02.46:802][351]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.46:802][351]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.46:802][351]MaterialEditorStats: Shader Count: 4
+[2024.01.28-09.02.51:023][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.28-09.02.51:023][565]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.51:023][565]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.51:023][565]MaterialEditorStats: Shader Count: 0
+[2024.01.28-09.02.51:083][567]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.02.51:083][567]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.28-09.02.51:083][567]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.02.51:083][567]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.02.51:083][567]MaterialEditorStats: Shader Count: 2
+[2024.01.28-09.03.02:602][215]LogMaterialEditor: Saving and Compiling material velvet
+[2024.01.28-09.03.02:695][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.28-09.03.02:915][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.28-09.03.02:923][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.03.05:035][215]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.01.28-09.03.07:249][215]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.219238s (2.219238s overbudget)
+[2024.01.28-09.03.07:271][215]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/velvet
+[2024.01.28-09.03.07:271][215]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/velvet51B47DE446A663577FD1D59D21AF0D7F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/velvet.uasset'
+[2024.01.28-09.03.07:276][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.35 sec (total: 23.8 sec)
+[2024.01.28-09.03.07:278][215]AssetCheck: New page: Asset Save: velvet
+[2024.01.28-09.03.07:278][215]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/velvet.velvet
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Base pass shader: 748 instructions
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: MaxSampler: 796 instructions
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Base pass vertex shader: 407 instructions
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.28-09.03.07:280][215]MaterialEditorStats: Shader Count: 28
+[2024.01.28-09.03.16:377][692]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.03.16:409][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.03.16:439][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.03.22:304][ 11]BlueprintLog: New page: Compile ObjectToSpawn
+[2024.01.28-09.03.22:385][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.01.28-09.03.25:595][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.03.25:704][181]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn
+[2024.01.28-09.03.25:705][181]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawnD6357EF042F9FEBA26E897A8495956F6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn.uasset'
+[2024.01.28-09.03.25:711][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 24.0 sec)
+[2024.01.28-09.03.25:713][181]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.28-09.03.25:713][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn
+[2024.01.28-09.03.32:612][502]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/dome_Movement_Spawner_BL.dome_Movement_Spawner_BL
+[2024.01.28-09.03.32:613][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.03.32:613][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.03.52:763][493]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.28-09.03.52:763][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.03.52:763][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.11.35:447][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.28-09.11.35:451][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.024
+[2024.01.28-09.11.35:452][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.28-09.11.35:452][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.28-09.11.35:458][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto5
+[2024.01.28-09.11.35:458][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto5938DAAAE4868681A2CEFCA88F494CF43.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto5.uasset'
+[2024.01.28-09.11.35:459][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child7] ([2] browsable assets)...
+[2024.01.28-09.11.35:459][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child7]
+[2024.01.28-09.11.35:462][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto5
+[2024.01.28-09.11.35:462][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child7_Auto5C68AA6C34C854C682D067E91481776EA.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto5.uasset'
+[2024.01.28-09.11.35:462][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child8] ([2] browsable assets)...
+[2024.01.28-09.11.35:462][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child8]
+[2024.01.28-09.11.35:465][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child8_Auto5
+[2024.01.28-09.11.35:465][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child8_Auto5779F3B6543D7817C6EB75E902FD61685.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child8_Auto5.uasset'
+[2024.01.28-09.11.35:465][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child9] ([2] browsable assets)...
+[2024.01.28-09.11.35:465][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child9]
+[2024.01.28-09.11.35:469][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto5
+[2024.01.28-09.11.35:469][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child9_Auto5E1FF1A9F492BC57A7A5A06AF363B71B5.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto5.uasset'
+[2024.01.28-09.11.35:470][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child10] ([2] browsable assets)...
+[2024.01.28-09.11.35:470][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child10]
+[2024.01.28-09.11.35:472][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto5
+[2024.01.28-09.11.35:472][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child10_Auto52A4DAE424BFB44310B1A33B9A8C521E3.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto5.uasset'
+[2024.01.28-09.11.35:474][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child11] ([2] browsable assets)...
+[2024.01.28-09.11.35:474][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child11]
+[2024.01.28-09.11.35:476][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto5
+[2024.01.28-09.11.35:476][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child11_Auto510B8E04A48D943C62A23C1BE43650C5E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto5.uasset'
+[2024.01.28-09.11.35:477][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child12] ([2] browsable assets)...
+[2024.01.28-09.11.35:477][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child12]
+[2024.01.28-09.11.35:479][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto5
+[2024.01.28-09.11.35:479][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child12_Auto548793F324E8B1DC8B6FB5B8B27DD4B28.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto5.uasset'
+[2024.01.28-09.11.35:481][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child13] ([2] browsable assets)...
+[2024.01.28-09.11.35:481][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child13]
+[2024.01.28-09.11.35:483][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto5
+[2024.01.28-09.11.35:483][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child13_Auto52BFD58234723A09642131FB26B666883.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto5.uasset'
+[2024.01.28-09.11.35:484][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child14] ([2] browsable assets)...
+[2024.01.28-09.11.35:484][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child14]
+[2024.01.28-09.11.35:486][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto5
+[2024.01.28-09.11.35:486][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child14_Auto5497B30F14595C89851746DB2FE259D92.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto5.uasset'
+[2024.01.28-09.11.35:488][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child15] ([2] browsable assets)...
+[2024.01.28-09.11.35:488][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child15]
+[2024.01.28-09.11.35:490][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto5
+[2024.01.28-09.11.35:490][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child15_Auto524DBEF1841A5D627D93258AC82C0B9E2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto5.uasset'
+[2024.01.28-09.11.35:491][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child16] ([2] browsable assets)...
+[2024.01.28-09.11.35:491][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child16]
+[2024.01.28-09.11.35:493][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto5
+[2024.01.28-09.11.35:493][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child16_Auto513F5847D42561D674EC564B3BA2D0D24.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto5.uasset'
+[2024.01.28-09.11.35:495][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child17] ([2] browsable assets)...
+[2024.01.28-09.11.35:495][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child17]
+[2024.01.28-09.11.35:497][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto5
+[2024.01.28-09.11.35:497][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child17_Auto54A027EEF4B7F11825894F79F26AFDB2F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto5.uasset'
+[2024.01.28-09.11.35:498][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child18] ([2] browsable assets)...
+[2024.01.28-09.11.35:498][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child18]
+[2024.01.28-09.11.35:501][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto5
+[2024.01.28-09.11.35:501][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child18_Auto5FE788B6C4B685CFDCDA2EA8FFB032D25.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto5.uasset'
+[2024.01.28-09.11.35:502][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child19] ([2] browsable assets)...
+[2024.01.28-09.11.35:502][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child19]
+[2024.01.28-09.11.35:504][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto5
+[2024.01.28-09.11.35:504][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child19_Auto5742CF53F4B8E11D95BFFDEAA30685895.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto5.uasset'
+[2024.01.28-09.11.35:505][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child20] ([2] browsable assets)...
+[2024.01.28-09.11.35:505][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child20]
+[2024.01.28-09.11.35:508][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto5
+[2024.01.28-09.11.35:508][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child20_Auto579C4F1A245D60D0D58F8338C460D2132.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto5.uasset'
+[2024.01.28-09.11.35:509][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child21] ([2] browsable assets)...
+[2024.01.28-09.11.35:509][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child21]
+[2024.01.28-09.11.35:512][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto5
+[2024.01.28-09.11.35:512][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child21_Auto53B99689B4E93831E474E3CAFB0C5932A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto5.uasset'
+[2024.01.28-09.11.35:512][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child22] ([2] browsable assets)...
+[2024.01.28-09.11.35:512][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child22]
+[2024.01.28-09.11.35:515][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto5
+[2024.01.28-09.11.35:515][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child22_Auto5FB9925604F84AE3975DB3394DAA584E7.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto5.uasset'
+[2024.01.28-09.11.35:515][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child23] ([2] browsable assets)...
+[2024.01.28-09.11.35:515][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child23]
+[2024.01.28-09.11.35:519][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto5
+[2024.01.28-09.11.35:519][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child23_Auto5CEE1DA244368FB67DF36108937F38AB6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto5.uasset'
+[2024.01.28-09.11.35:520][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child24] ([2] browsable assets)...
+[2024.01.28-09.11.35:520][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child24]
+[2024.01.28-09.11.35:522][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto5
+[2024.01.28-09.11.35:522][464]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child24_Auto5689207F946ECCE789256AB8441D645A6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto5.uasset'
+[2024.01.28-09.11.35:523][464]LogFileHelpers: Auto-saving content packages took 0.071
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: ================================================
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Total job queries 1 103, among them cache hits 918 (83.23%)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 104 distinct outputs (56.22%)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: RAM used: 7,46 MiB of 819,20 MiB budget. Usage: 0.91%
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Shaders Compiled: 133
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Jobs assigned 133, completed 133 (100%)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Average time worker was idle: 244.89 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 4.40 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 3.85 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Job life time (pending + execution): average 2.49 s, max 7.05
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Shader code size: average 74,083 KiB, min 4,633 KiB, max 93,809 KiB
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 64.89 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Jobs were issued in 133 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Total thread time: 235,273 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Total thread preprocess time: 6,321 s
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Percentage time preprocessing: 2.69%
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Effective parallelization: 3.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 3.16 sec, max 3.41 sec, min 3.00 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 3.16 sec, max 3.41 sec, min 2.98 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    8 times, average 3.15 sec, max 3.33 sec, min 2.94 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    8 times, average 3.12 sec, max 3.35 sec, min 2.73 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    8 times, average 3.11 sec, max 3.32 sec, min 2.90 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.59% of total time (compiled   11 times, average 2.69 sec, max 3.15 sec, min 2.35 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.90% of total time (compiled   13 times, average 2.15 sec, max 3.33 sec, min 0.41 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.74% of total time (compiled    8 times, average 3.16 sec, max 3.41 sec, min 3.00 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.73% of total time (compiled    8 times, average 3.16 sec, max 3.41 sec, min 2.98 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 10.73% of total time (compiled    8 times, average 3.15 sec, max 3.33 sec, min 2.94 sec)
+[2024.01.28-09.17.33:089][224]LogShaderCompilers: Display: ================================================
+[2024.01.28-09.18.22:615][301]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.01.28-09.18.22:854][301]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24244
+[2024.01.28-09.18.24:526][306]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{fdd71b6c-1a60-490c-910e-9c2b5f6acdaa}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1386.16
+[2024.01.28-09.18.24:526][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.28-09.18.24:530][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.28-09.19.18:270][468]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.28-09.19.18:273][468]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.28-09.19.19:216][471]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.28-09.19.19:218][471]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.28-09.19.45:983][939]LogSlate: Took 0.005834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.28-09.22.49:878][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.28-09.22.49:886][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.030
+[2024.01.28-09.22.49:886][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.28-09.22.49:886][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.28-09.22.49:891][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto6
+[2024.01.28-09.22.49:891][167]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto6EF72A4864D24418FC16E6B8D5572BAA6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto6.uasset'
+[2024.01.28-09.22.49:892][167]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.28-09.24.34:038][480]LogDerivedDataCache: C:/Users/ilmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2156 files in 3320 folders with total size 71 MiB.
+[2024.01.28-09.32.16:979][825]LogViewport: Scene viewport resized to 778x585, mode Windowed.
+[2024.01.28-09.32.17:085][825]LogViewport: Scene viewport resized to 972x731, mode Windowed.
+[2024.01.28-09.32.17:388][825]LogViewport: Scene viewport resized to 1165x855, mode Windowed.
+[2024.01.28-09.32.54:818][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.28-09.32.54:827][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.028
+[2024.01.28-09.32.54:827][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.28-09.32.54:827][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.28-09.32.54:832][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto7
+[2024.01.28-09.32.54:833][971]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto755C8FD3A4E7680DF4E00EAA14B70D517.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto7.uasset'
+[2024.01.28-09.32.54:834][971]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.28-09.37.11:140][ 55]BlueprintLog: New page: Compile Spawner
+[2024.01.28-09.37.11:185][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.28-09.38.24:333][313]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child_C
+[2024.01.28-09.38.24:334][313]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child_C
+[2024.01.28-09.38.24:336][313]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child as actor: ObjectToSpawn_Child_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ObjectToSpawn_Child_C_0
+[2024.01.28-09.38.24:337][313]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child as actor: ObjectToSpawn_Child_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ObjectToSpawn_Child_C_0
+[2024.01.28-09.39.05:009][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.39.05:107][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Spawner" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset" SILENT=true
+[2024.01.28-09.39.05:113][382]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Spawner
+[2024.01.28-09.39.05:114][382]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/SpawnerEBF8F1084AF5F46FDBA9AD8C0D30DE67.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset'
+[2024.01.28-09.39.05:121][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 24.1 sec)
+[2024.01.28-09.39.05:122][382]AssetCheck: New page: Asset Save: Spawner
+[2024.01.28-09.39.05:123][382]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.28-09.39.06:471][480]BlueprintLog: New page: Compile Spawner
+[2024.01.28-09.39.06:510][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.28-09.39.18:001][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn_C
+[2024.01.28-09.39.18:002][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn_C
+[2024.01.28-09.39.18:003][598]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn as actor: ObjectToSpawn_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ObjectToSpawn_C_0
+[2024.01.28-09.39.18:004][598]LogActorFactory: Actor Factory spawned Blueprint /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn as actor: ObjectToSpawn_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ObjectToSpawn_C_0
+[2024.01.28-09.39.28:992][861]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.28-09.39.28:992][861]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.28-09.40.41:235][749]BlueprintLog: New page: Compile Spawner
+[2024.01.28-09.40.41:274][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.28-09.41.16:515][102]LogViewport: Scene viewport resized to 1164x855, mode Windowed.
+[2024.01.28-09.41.16:538][103]LogViewport: Scene viewport resized to 1155x855, mode Windowed.
+[2024.01.28-09.41.16:560][104]LogViewport: Scene viewport resized to 1137x855, mode Windowed.
+[2024.01.28-09.41.16:582][105]LogViewport: Scene viewport resized to 1113x855, mode Windowed.
+[2024.01.28-09.41.16:604][106]LogViewport: Scene viewport resized to 1095x855, mode Windowed.
+[2024.01.28-09.41.16:626][107]LogViewport: Scene viewport resized to 1066x855, mode Windowed.
+[2024.01.28-09.41.16:648][108]LogViewport: Scene viewport resized to 1035x855, mode Windowed.
+[2024.01.28-09.41.16:670][109]LogViewport: Scene viewport resized to 1011x855, mode Windowed.
+[2024.01.28-09.41.16:691][110]LogViewport: Scene viewport resized to 997x855, mode Windowed.
+[2024.01.28-09.41.16:713][111]LogViewport: Scene viewport resized to 974x855, mode Windowed.
+[2024.01.28-09.41.16:735][112]LogViewport: Scene viewport resized to 948x855, mode Windowed.
+[2024.01.28-09.41.16:757][113]LogViewport: Scene viewport resized to 917x855, mode Windowed.
+[2024.01.28-09.41.16:779][114]LogViewport: Scene viewport resized to 892x855, mode Windowed.
+[2024.01.28-09.41.16:801][115]LogViewport: Scene viewport resized to 858x855, mode Windowed.
+[2024.01.28-09.41.16:823][116]LogViewport: Scene viewport resized to 812x855, mode Windowed.
+[2024.01.28-09.41.16:845][117]LogViewport: Scene viewport resized to 749x855, mode Windowed.
+[2024.01.28-09.41.16:868][118]LogViewport: Scene viewport resized to 717x855, mode Windowed.
+[2024.01.28-09.41.16:890][119]LogViewport: Scene viewport resized to 685x855, mode Windowed.
+[2024.01.28-09.41.16:912][120]LogViewport: Scene viewport resized to 672x855, mode Windowed.
+[2024.01.28-09.41.16:933][121]LogViewport: Scene viewport resized to 666x855, mode Windowed.
+[2024.01.28-09.41.16:988][125]LogViewport: Scene viewport resized to 664x855, mode Windowed.
+[2024.01.28-09.41.17:012][126]LogViewport: Scene viewport resized to 658x855, mode Windowed.
+[2024.01.28-09.41.17:034][127]LogViewport: Scene viewport resized to 651x855, mode Windowed.
+[2024.01.28-09.41.17:056][128]LogViewport: Scene viewport resized to 641x855, mode Windowed.
+[2024.01.28-09.41.17:077][129]LogViewport: Scene viewport resized to 624x855, mode Windowed.
+[2024.01.28-09.41.17:099][130]LogViewport: Scene viewport resized to 611x855, mode Windowed.
+[2024.01.28-09.41.17:121][131]LogViewport: Scene viewport resized to 591x855, mode Windowed.
+[2024.01.28-09.41.17:142][132]LogViewport: Scene viewport resized to 575x855, mode Windowed.
+[2024.01.28-09.41.17:164][133]LogViewport: Scene viewport resized to 563x855, mode Windowed.
+[2024.01.28-09.41.17:187][134]LogViewport: Scene viewport resized to 558x855, mode Windowed.
+[2024.01.28-09.41.17:209][135]LogViewport: Scene viewport resized to 550x855, mode Windowed.
+[2024.01.28-09.41.17:232][136]LogViewport: Scene viewport resized to 542x855, mode Windowed.
+[2024.01.28-09.41.17:254][137]LogViewport: Scene viewport resized to 530x855, mode Windowed.
+[2024.01.28-09.41.17:276][138]LogViewport: Scene viewport resized to 523x855, mode Windowed.
+[2024.01.28-09.41.17:299][139]LogViewport: Scene viewport resized to 512x855, mode Windowed.
+[2024.01.28-09.41.17:321][140]LogViewport: Scene viewport resized to 499x855, mode Windowed.
+[2024.01.28-09.41.17:342][141]LogViewport: Scene viewport resized to 489x855, mode Windowed.
+[2024.01.28-09.41.17:364][142]LogViewport: Scene viewport resized to 484x855, mode Windowed.
+[2024.01.28-09.41.17:386][143]LogViewport: Scene viewport resized to 480x855, mode Windowed.
+[2024.01.28-09.41.17:407][144]LogViewport: Scene viewport resized to 474x855, mode Windowed.
+[2024.01.28-09.41.17:429][145]LogViewport: Scene viewport resized to 464x855, mode Windowed.
+[2024.01.28-09.41.17:451][146]LogViewport: Scene viewport resized to 456x855, mode Windowed.
+[2024.01.28-09.41.17:473][147]LogViewport: Scene viewport resized to 445x855, mode Windowed.
+[2024.01.28-09.41.17:495][148]LogViewport: Scene viewport resized to 443x855, mode Windowed.
+[2024.01.28-09.41.17:518][149]LogViewport: Scene viewport resized to 441x855, mode Windowed.
+[2024.01.28-09.42.14:363][473]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.01.28-09.42.14:363][473]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.01.28-09.42.14:417][473]LogViewport: Scene viewport resized to 441x553, mode Windowed.
+[2024.01.28-09.42.17:538][656]LogViewport: Scene viewport resized to 368x473, mode Windowed.
+[2024.01.28-09.42.18:829][656]LogViewport: Scene viewport resized to 441x553, mode Windowed.
+[2024.01.28-09.42.23:045][772]LogViewport: Scene viewport resized to 368x473, mode Windowed.
+[2024.01.28-09.42.23:830][772]LogViewport: Scene viewport resized to 441x553, mode Windowed.
+[2024.01.28-09.43.27:075][631]LogViewport: Scene viewport resized to 445x553, mode Windowed.
+[2024.01.28-09.43.27:099][632]LogViewport: Scene viewport resized to 449x553, mode Windowed.
+[2024.01.28-09.43.27:123][633]LogViewport: Scene viewport resized to 471x553, mode Windowed.
+[2024.01.28-09.43.27:147][634]LogViewport: Scene viewport resized to 513x553, mode Windowed.
+[2024.01.28-09.43.27:171][635]LogViewport: Scene viewport resized to 572x553, mode Windowed.
+[2024.01.28-09.43.27:196][636]LogViewport: Scene viewport resized to 659x553, mode Windowed.
+[2024.01.28-09.43.27:220][637]LogViewport: Scene viewport resized to 769x553, mode Windowed.
+[2024.01.28-09.43.27:244][638]LogViewport: Scene viewport resized to 870x553, mode Windowed.
+[2024.01.28-09.43.27:269][639]LogViewport: Scene viewport resized to 933x553, mode Windowed.
+[2024.01.28-09.43.27:294][640]LogViewport: Scene viewport resized to 998x553, mode Windowed.
+[2024.01.28-09.43.27:318][641]LogViewport: Scene viewport resized to 1028x553, mode Windowed.
+[2024.01.28-09.43.27:343][642]LogViewport: Scene viewport resized to 1044x553, mode Windowed.
+[2024.01.28-09.43.27:368][643]LogViewport: Scene viewport resized to 1076x553, mode Windowed.
+[2024.01.28-09.43.27:392][644]LogViewport: Scene viewport resized to 1129x553, mode Windowed.
+[2024.01.28-09.43.27:416][645]LogViewport: Scene viewport resized to 1177x553, mode Windowed.
+[2024.01.28-09.43.27:442][646]LogViewport: Scene viewport resized to 1215x553, mode Windowed.
+[2024.01.28-09.43.27:470][647]LogViewport: Scene viewport resized to 1230x553, mode Windowed.
+[2024.01.28-09.43.27:523][650]LogViewport: Scene viewport resized to 1233x553, mode Windowed.
+[2024.01.28-09.43.27:547][651]LogViewport: Scene viewport resized to 1237x553, mode Windowed.
+[2024.01.28-09.43.27:679][660]LogViewport: Scene viewport resized to 1239x553, mode Windowed.
+[2024.01.28-09.43.27:704][661]LogViewport: Scene viewport resized to 1245x553, mode Windowed.
+[2024.01.28-09.43.27:728][662]LogViewport: Scene viewport resized to 1248x553, mode Windowed.
+[2024.01.28-09.43.27:753][663]LogViewport: Scene viewport resized to 1251x553, mode Windowed.
+[2024.01.28-09.43.27:776][664]LogViewport: Scene viewport resized to 1253x553, mode Windowed.
+[2024.01.28-09.44.03:869][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.28-09.44.03:893][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8
+[2024.01.28-09.44.03:894][925]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto8C890D4184836DF1DA78FD988CD73D6A2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8.umap'
+[2024.01.28-09.44.03:895][925]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8.umap is in the /Temp path, will not scan.
+[2024.01.28-09.44.03:896][925]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.044
+[2024.01.28-09.44.03:896][925]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.01.28-09.44.03:896][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.28-09.44.03:896][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.28-09.44.03:903][925]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto8
+[2024.01.28-09.44.03:904][925]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto80F1AD5384D2A5735A11DB492C8B2D8C6.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto8.uasset'
+[2024.01.28-09.44.03:905][925]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.01.28-09.44.40:163][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child
+[2024.01.28-09.44.40:164][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.44.40:164][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.44.40:325][253]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.44.57:395][218]LogViewport: Scene viewport resized to 1253x552, mode Windowed.
+[2024.01.28-09.44.57:436][220]LogViewport: Scene viewport resized to 1253x548, mode Windowed.
+[2024.01.28-09.44.57:464][221]LogViewport: Scene viewport resized to 1253x538, mode Windowed.
+[2024.01.28-09.44.57:491][222]LogViewport: Scene viewport resized to 1253x524, mode Windowed.
+[2024.01.28-09.44.57:519][223]LogViewport: Scene viewport resized to 1253x509, mode Windowed.
+[2024.01.28-09.44.57:557][224]LogViewport: Scene viewport resized to 1253x493, mode Windowed.
+[2024.01.28-09.44.57:584][225]LogViewport: Scene viewport resized to 1253x482, mode Windowed.
+[2024.01.28-09.44.57:611][226]LogViewport: Scene viewport resized to 1253x479, mode Windowed.
+[2024.01.28-09.44.57:637][227]LogViewport: Scene viewport resized to 1253x476, mode Windowed.
+[2024.01.28-09.44.57:665][228]LogViewport: Scene viewport resized to 1253x473, mode Windowed.
+[2024.01.28-09.44.57:692][229]LogViewport: Scene viewport resized to 1253x469, mode Windowed.
+[2024.01.28-09.44.57:718][230]LogViewport: Scene viewport resized to 1253x465, mode Windowed.
+[2024.01.28-09.44.57:745][231]LogViewport: Scene viewport resized to 1253x463, mode Windowed.
+[2024.01.28-09.44.57:771][232]LogViewport: Scene viewport resized to 1253x459, mode Windowed.
+[2024.01.28-09.44.57:797][233]LogViewport: Scene viewport resized to 1253x457, mode Windowed.
+[2024.01.28-09.44.57:915][240]LogViewport: Scene viewport resized to 1253x455, mode Windowed.
+[2024.01.28-09.44.57:955][242]LogViewport: Scene viewport resized to 1253x453, mode Windowed.
+[2024.01.28-09.44.57:998][244]LogViewport: Scene viewport resized to 1253x459, mode Windowed.
+[2024.01.28-09.47.05:089][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonCat.balloonCat
+[2024.01.28-09.47.05:089][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonCat.balloonCat
+[2024.01.28-09.47.05:090][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonCat.balloonCat as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2024.01.28-09.47.16:825][686]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child1.ObjectToSpawn_Child1
+[2024.01.28-09.47.16:825][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.47.16:825][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.47.17:010][686]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.47.23:343][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.47.23:465][ 19]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn
+[2024.01.28-09.47.23:466][ 19]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawnD24B3E5A48AA32600E31FD8407FA921E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn.uasset'
+[2024.01.28-09.47.23:473][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 24.2 sec)
+[2024.01.28-09.47.23:474][ 19]AssetCheck: New page: Asset Save: ObjectToSpawn
+[2024.01.28-09.47.23:474][ 19]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn
+[2024.01.28-09.47.37:581][726]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.47.37:581][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.47.47:979][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.47.48:088][279]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child1
+[2024.01.28-09.47.48:089][279]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child170A1425F45275209ABF995A880261FCA.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child1.uasset'
+[2024.01.28-09.47.48:096][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 24.3 sec)
+[2024.01.28-09.47.48:097][279]AssetCheck: New page: Asset Save: ObjectToSpawn_Child1
+[2024.01.28-09.47.48:097][279]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child1.ObjectToSpawn_Child1
+[2024.01.28-09.47.50:868][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child
+[2024.01.28-09.47.50:868][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.47.50:868][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.47.57:623][808]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.47.57:623][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.47.57:644][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child
+[2024.01.28-09.47.57:645][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.47.57:645][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.48.04:723][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.48.04:851][164]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child
+[2024.01.28-09.48.04:852][164]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child9F5A91C94FE865583FEBD6A855AD62FB.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child.uasset'
+[2024.01.28-09.48.04:858][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 24.4 sec)
+[2024.01.28-09.48.04:859][164]AssetCheck: New page: Asset Save: ObjectToSpawn_Child
+[2024.01.28-09.48.04:859][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child
+[2024.01.28-09.48.11:679][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.28-09.48.17:505][511]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.28-09.48.17:604][511]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.48.17:604][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.48.17:634][511]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/LevelPrototyping/Meshes/inquisitorAnim.inquisitorAnim
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/LevelPrototyping/Meshes/inquisitorAnim_PhysicsAsset.inquisitorAnim_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/LevelPrototyping/Meshes/inquisitorAnim_Skeleton.inquisitorAnim_Skeleton
+	Asset Type: Skeleton
+[2024.01.28-09.48.18:084][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.28-09.48.18:108][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.28-09.48.18:128][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.28-09.48.25:028][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child2.ObjectToSpawn_Child2
+[2024.01.28-09.48.25:028][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.48.25:029][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.48.25:179][838]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.49.06:981][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.49.07:100][203]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child2
+[2024.01.28-09.49.07:101][203]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child2D33A7CC84DB8E0C2427344990494D681.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child2.uasset'
+[2024.01.28-09.49.07:109][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 24.6 sec)
+[2024.01.28-09.49.07:110][203]AssetCheck: New page: Asset Save: ObjectToSpawn_Child2
+[2024.01.28-09.49.07:110][203]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child2.ObjectToSpawn_Child2
+[2024.01.28-09.49.10:933][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child3.ObjectToSpawn_Child3
+[2024.01.28-09.49.10:933][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.49.10:933][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.49.11:099][396]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.49.17:690][765]Cmd: TRANSACTION UNDO
+[2024.01.28-09.49.17:690][765]LogEditorTransaction: Undo Add Component
+[2024.01.28-09.49.20:930][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonGiraffe.balloonGiraffe
+[2024.01.28-09.49.20:930][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonGiraffe.balloonGiraffe
+[2024.01.28-09.49.20:930][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonGiraffe.balloonGiraffe as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_1
+[2024.01.28-09.49.23:612][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.49.23:734][ 34]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child3
+[2024.01.28-09.49.23:735][ 34]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child359EB2ADD4E8C7A959D11759C93BBBE5B.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child3.uasset'
+[2024.01.28-09.49.23:742][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 24.7 sec)
+[2024.01.28-09.49.23:743][ 34]AssetCheck: New page: Asset Save: ObjectToSpawn_Child3
+[2024.01.28-09.49.23:743][ 34]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child3.ObjectToSpawn_Child3
+[2024.01.28-09.49.26:376][159]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child4.ObjectToSpawn_Child4
+[2024.01.28-09.49.26:376][159]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.49.26:376][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.49.26:557][159]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.49.29:688][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHippo.balloonHippo
+[2024.01.28-09.49.29:688][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHippo.balloonHippo
+[2024.01.28-09.49.29:688][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonHippo.balloonHippo as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_2
+[2024.01.28-09.49.32:911][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child5.ObjectToSpawn_Child5
+[2024.01.28-09.49.32:912][437]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.49.32:912][437]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.49.33:091][437]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.49.36:637][598]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse
+[2024.01.28-09.49.36:637][598]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse
+[2024.01.28-09.49.36:638][598]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4
+[2024.01.28-09.49.40:382][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.49.40:506][787]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child5
+[2024.01.28-09.49.40:507][787]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child5275DAA674186B52C01E9CA86F14443FC.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child5.uasset'
+[2024.01.28-09.49.40:513][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 24.8 sec)
+[2024.01.28-09.49.40:515][787]AssetCheck: New page: Asset Save: ObjectToSpawn_Child5
+[2024.01.28-09.49.40:515][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child5.ObjectToSpawn_Child5
+[2024.01.28-09.49.42:399][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child6.ObjectToSpawn_Child6
+[2024.01.28-09.49.42:399][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.49.42:399][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.49.42:599][873]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.49.46:759][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse
+[2024.01.28-09.49.46:759][ 56]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse
+[2024.01.28-09.49.46:760][ 56]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonHorse.balloonHorse as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_5
+[2024.01.28-09.49.49:549][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.49.49:669][184]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child6
+[2024.01.28-09.49.49:670][184]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child6F08997744870A1CE9B148F8AB8EC38B2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child6.uasset'
+[2024.01.28-09.49.49:676][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 25.0 sec)
+[2024.01.28-09.49.49:678][184]AssetCheck: New page: Asset Save: ObjectToSpawn_Child6
+[2024.01.28-09.49.49:678][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child6.ObjectToSpawn_Child6
+[2024.01.28-09.50.54:182][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child7.ObjectToSpawn_Child7
+[2024.01.28-09.50.54:183][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.50.54:183][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.50.54:410][867]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.50.58:741][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonPig.balloonPig
+[2024.01.28-09.50.58:741][ 49]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LevelPrototyping/Meshes/balloonPig.balloonPig
+[2024.01.28-09.50.58:742][ 49]LogActorFactory: Actor Factory spawned StaticMesh /Game/LevelPrototyping/Meshes/balloonPig.balloonPig as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6
+[2024.01.28-09.53.20:865][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child8.ObjectToSpawn_Child8
+[2024.01.28-09.53.20:865][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.53.20:865][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.53.21:034][738]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.53.30:376][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.53.30:502][221]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child8
+[2024.01.28-09.53.30:502][221]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child8D624EA4449304993F77C05ABE0D4B598.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child8.uasset'
+[2024.01.28-09.53.30:511][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 25.1 sec)
+[2024.01.28-09.53.30:512][221]AssetCheck: New page: Asset Save: ObjectToSpawn_Child8
+[2024.01.28-09.53.30:512][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child8.ObjectToSpawn_Child8
+[2024.01.28-09.53.32:565][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child9.ObjectToSpawn_Child9
+[2024.01.28-09.53.32:565][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.53.32:566][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.53.32:736][328]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.53.38:726][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child10.ObjectToSpawn_Child10
+[2024.01.28-09.53.38:727][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.53.38:727][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.53.38:908][625]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.54.03:878][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child11.ObjectToSpawn_Child11
+[2024.01.28-09.54.03:879][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.54.03:879][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.54.04:068][ 40]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
