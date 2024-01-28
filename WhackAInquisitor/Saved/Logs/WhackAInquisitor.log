@@ -6540,3 +6540,297 @@ The following settings have been applied:
 [2024.01.28-09.54.03:879][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.28-09.54.03:879][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.01.28-09.54.04:068][ 40]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.01.28-09.55.08:333][804]AssetReimport: New page: Outstanding source content changes 13.55.08
+[2024.01.28-09.55.08:497][808]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446730990592774744
+[2024.01.28-09.55.08:497][808]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.01.28-09.55.58:300][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.01.28-09.55.58:318][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9
+[2024.01.28-09.55.58:319][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap_Auto9CD784755438BF4B2F52F3B8DA998B2E7.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9.umap'
+[2024.01.28-09.55.58:321][388]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9.umap is in the /Temp path, will not scan.
+[2024.01.28-09.55.58:321][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.050
+[2024.01.28-09.55.58:321][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.01.28-09.55.58:322][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Spawner] ([2] browsable assets)...
+[2024.01.28-09.55.58:322][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Spawner]
+[2024.01.28-09.55.58:329][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Spawner_Auto9
+[2024.01.28-09.55.58:330][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner_Auto9914FDB8E455300EBB2CCA1971865338D.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Spawner_Auto9.uasset'
+[2024.01.28-09.55.58:331][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child] ([2] browsable assets)...
+[2024.01.28-09.55.58:331][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child]
+[2024.01.28-09.55.58:335][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child_Auto9
+[2024.01.28-09.55.58:335][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child_Auto9161626B84B5E67A266629BBAC6D7DE91.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child_Auto9.uasset'
+[2024.01.28-09.55.58:337][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/Inquisitor_mat] ([1] browsable assets)...
+[2024.01.28-09.55.58:337][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/Inquisitor_mat]
+[2024.01.28-09.55.58:339][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/Inquisitor_mat_Auto9
+[2024.01.28-09.55.58:339][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Inquisitor_mat_Auto9B443CAA34259405C483F80B371E1FF61.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Textures/Inquisitor_mat_Auto9.uasset'
+[2024.01.28-09.55.58:340][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child24] ([2] browsable assets)...
+[2024.01.28-09.55.58:340][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child24]
+[2024.01.28-09.55.58:343][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto9
+[2024.01.28-09.55.58:343][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child24_Auto95E63C5DE427605264CB62AB60FC6BCE2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child24_Auto9.uasset'
+[2024.01.28-09.55.58:345][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child23] ([2] browsable assets)...
+[2024.01.28-09.55.58:345][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child23]
+[2024.01.28-09.55.58:348][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto9
+[2024.01.28-09.55.58:348][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child23_Auto91EEB15E24BDD0005B62235B63696B321.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child23_Auto9.uasset'
+[2024.01.28-09.55.58:350][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn] ([2] browsable assets)...
+[2024.01.28-09.55.58:350][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn]
+[2024.01.28-09.55.58:355][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Auto9
+[2024.01.28-09.55.58:355][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Auto9C4028F944E86D5B3BFBF578AFDCDE941.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Auto9.uasset'
+[2024.01.28-09.55.58:356][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child4] ([2] browsable assets)...
+[2024.01.28-09.55.58:369][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child4.ObjectToSpawn_Child4]
+[2024.01.28-09.55.58:369][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child4]
+[2024.01.28-09.55.58:374][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child4_Auto9
+[2024.01.28-09.55.58:374][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child4_Auto989EA8F354495F8070462C5A33BB8E21E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child4_Auto9.uasset'
+[2024.01.28-09.55.58:375][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/palette] ([1] browsable assets)...
+[2024.01.28-09.55.58:375][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/palette]
+[2024.01.28-09.55.58:377][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/palette_Auto9
+[2024.01.28-09.55.58:377][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/palette_Auto9682D7C574571C982F144C09351149482.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/palette_Auto9.uasset'
+[2024.01.28-09.55.58:378][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/pixelKnight] ([1] browsable assets)...
+[2024.01.28-09.55.58:378][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/pixelKnight]
+[2024.01.28-09.55.58:382][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/pixelKnight_Auto9
+[2024.01.28-09.55.58:382][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/pixelKnight_Auto9697948EE4D83BFE15FAB80AA63743B66.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/pixelKnight_Auto9.uasset'
+[2024.01.28-09.55.58:383][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/tetris] ([1] browsable assets)...
+[2024.01.28-09.55.58:383][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/tetris]
+[2024.01.28-09.55.58:385][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/tetris_Auto9
+[2024.01.28-09.55.58:385][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/tetris_Auto92D515BAD40F931ED7A2328B1B40BC0F2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/tetris_Auto9.uasset'
+[2024.01.28-09.55.58:386][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/orc] ([1] browsable assets)...
+[2024.01.28-09.55.58:386][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/orc]
+[2024.01.28-09.55.58:388][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/orc_Auto9
+[2024.01.28-09.55.58:388][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/orc_Auto9B1E42B8C42CC9F41AA2FA59C4F8201FC.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/orc_Auto9.uasset'
+[2024.01.28-09.55.58:389][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/goblin] ([1] browsable assets)...
+[2024.01.28-09.55.58:389][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/goblin]
+[2024.01.28-09.55.58:391][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/goblin_Auto9
+[2024.01.28-09.55.58:391][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/goblin_Auto937BCAFA04AD347D168B290ABEB96E9B4.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/goblin_Auto9.uasset'
+[2024.01.28-09.55.58:392][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/flying_car] ([1] browsable assets)...
+[2024.01.28-09.55.58:392][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/flying_car]
+[2024.01.28-09.55.58:394][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/flying_car_Auto9
+[2024.01.28-09.55.58:394][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/flying_car_Auto95B43E0BA4734FE33B1E6428202225244.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/flying_car_Auto9.uasset'
+[2024.01.28-09.55.58:396][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/eye_drone] ([1] browsable assets)...
+[2024.01.28-09.55.58:396][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/eye_drone]
+[2024.01.28-09.55.58:397][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/eye_drone_Auto9
+[2024.01.28-09.55.58:397][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/eye_drone_Auto9DCDCC582490461EFA80214A09873638A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/eye_drone_Auto9.uasset'
+[2024.01.28-09.55.58:399][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/spaceship] ([1] browsable assets)...
+[2024.01.28-09.55.58:399][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/spaceship]
+[2024.01.28-09.55.58:400][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/spaceship_Auto9
+[2024.01.28-09.55.58:400][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/spaceship_Auto933CF5B9B421539EE14464185ABCF811E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/spaceship_Auto9.uasset'
+[2024.01.28-09.55.58:402][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/wizard_tower] ([1] browsable assets)...
+[2024.01.28-09.55.58:402][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/wizard_tower]
+[2024.01.28-09.55.58:404][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/wizard_tower_Auto9
+[2024.01.28-09.55.58:404][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/wizard_tower_Auto9E09DBDA240CCD7E19F1132B547BF1D03.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/wizard_tower_Auto9.uasset'
+[2024.01.28-09.55.58:405][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/pixel_knight] ([1] browsable assets)...
+[2024.01.28-09.55.58:405][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/pixel_knight]
+[2024.01.28-09.55.58:407][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/pixel_knight_Auto9
+[2024.01.28-09.55.58:407][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/pixel_knight_Auto91CD343C748E6FA91B467158071B430CB.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/pixel_knight_Auto9.uasset'
+[2024.01.28-09.55.58:408][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Meshes/ship] ([1] browsable assets)...
+[2024.01.28-09.55.58:408][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/ship]
+[2024.01.28-09.55.58:410][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Meshes/ship_Auto9
+[2024.01.28-09.55.58:410][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ship_Auto91080623C4595F3B10D5350A048717B63.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/LevelPrototyping/Meshes/ship_Auto9.uasset'
+[2024.01.28-09.55.58:411][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child7] ([2] browsable assets)...
+[2024.01.28-09.55.58:417][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child7.ObjectToSpawn_Child7]
+[2024.01.28-09.55.58:417][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child7]
+[2024.01.28-09.55.58:422][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto9
+[2024.01.28-09.55.58:422][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child7_Auto9785AA3E1490815B73549CE815639C500.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child7_Auto9.uasset'
+[2024.01.28-09.55.58:424][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child9] ([2] browsable assets)...
+[2024.01.28-09.55.58:430][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child9.ObjectToSpawn_Child9]
+[2024.01.28-09.55.58:430][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child9]
+[2024.01.28-09.55.58:435][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto9
+[2024.01.28-09.55.58:435][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child9_Auto985D75FD848B2126005AA75B6EAA81DC5.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child9_Auto9.uasset'
+[2024.01.28-09.55.58:436][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child10] ([2] browsable assets)...
+[2024.01.28-09.55.58:443][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child10.ObjectToSpawn_Child10]
+[2024.01.28-09.55.58:443][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child10]
+[2024.01.28-09.55.58:447][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto9
+[2024.01.28-09.55.58:447][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child10_Auto9DB5141BC422DC267EDF769BD92FCB44C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child10_Auto9.uasset'
+[2024.01.28-09.55.58:449][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child11] ([2] browsable assets)...
+[2024.01.28-09.55.58:455][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child11.ObjectToSpawn_Child11]
+[2024.01.28-09.55.58:455][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child11]
+[2024.01.28-09.55.58:460][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto9
+[2024.01.28-09.55.58:460][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child11_Auto9F3CF2EBA40C11D6F61D3888E57BE31C2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child11_Auto9.uasset'
+[2024.01.28-09.55.58:462][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child12] ([2] browsable assets)...
+[2024.01.28-09.55.58:462][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child12]
+[2024.01.28-09.55.58:468][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto9
+[2024.01.28-09.55.58:468][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child12_Auto94F0E75B3405BC6DC6467CABE381A025F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child12_Auto9.uasset'
+[2024.01.28-09.55.58:470][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child13] ([2] browsable assets)...
+[2024.01.28-09.55.58:470][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child13]
+[2024.01.28-09.55.58:474][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto9
+[2024.01.28-09.55.58:474][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child13_Auto966E3F3174541339FC6668B878240950C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child13_Auto9.uasset'
+[2024.01.28-09.55.58:475][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child14] ([2] browsable assets)...
+[2024.01.28-09.55.58:475][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child14]
+[2024.01.28-09.55.58:479][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto9
+[2024.01.28-09.55.58:479][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child14_Auto90684D96947B11B692B27BC913D62A92C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child14_Auto9.uasset'
+[2024.01.28-09.55.58:481][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child15] ([2] browsable assets)...
+[2024.01.28-09.55.58:481][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child15]
+[2024.01.28-09.55.58:484][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto9
+[2024.01.28-09.55.58:484][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child15_Auto9E41FE46D4C05B33E159AB8859C52314C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child15_Auto9.uasset'
+[2024.01.28-09.55.58:485][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child16] ([2] browsable assets)...
+[2024.01.28-09.55.58:485][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child16]
+[2024.01.28-09.55.58:489][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto9
+[2024.01.28-09.55.58:489][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child16_Auto9A3408CEF48927559820B8C94C934CE76.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child16_Auto9.uasset'
+[2024.01.28-09.55.58:490][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child17] ([2] browsable assets)...
+[2024.01.28-09.55.58:490][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child17]
+[2024.01.28-09.55.58:494][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto9
+[2024.01.28-09.55.58:494][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child17_Auto983A4ED15495A4E630DAEFB920945C040.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child17_Auto9.uasset'
+[2024.01.28-09.55.58:495][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child18] ([2] browsable assets)...
+[2024.01.28-09.55.58:495][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child18]
+[2024.01.28-09.55.58:498][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto9
+[2024.01.28-09.55.58:498][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child18_Auto91260425A4E894A2D43E83F9F7EEF1DB9.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child18_Auto9.uasset'
+[2024.01.28-09.55.58:500][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child19] ([2] browsable assets)...
+[2024.01.28-09.55.58:500][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child19]
+[2024.01.28-09.55.58:503][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto9
+[2024.01.28-09.55.58:503][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child19_Auto9F3D586CE4EA8BCF36E9B1C857A352496.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child19_Auto9.uasset'
+[2024.01.28-09.55.58:505][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child20] ([2] browsable assets)...
+[2024.01.28-09.55.58:505][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child20]
+[2024.01.28-09.55.58:508][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto9
+[2024.01.28-09.55.58:508][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child20_Auto95F2F323143585C6EF03A15A83BBC202F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child20_Auto9.uasset'
+[2024.01.28-09.55.58:509][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child21] ([2] browsable assets)...
+[2024.01.28-09.55.58:509][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child21]
+[2024.01.28-09.55.58:513][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto9
+[2024.01.28-09.55.58:513][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child21_Auto99705D32A414EC50BF1888AA626F84F4D.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child21_Auto9.uasset'
+[2024.01.28-09.55.58:515][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SpawnableObjects/ObjectToSpawn_Child22] ([2] browsable assets)...
+[2024.01.28-09.55.58:515][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/SpawnableObjects/ObjectToSpawn_Child22]
+[2024.01.28-09.55.58:518][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto9
+[2024.01.28-09.55.58:518][388]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child22_Auto982D1F3CE4F79FC8088BFEFA3C1A7A17B.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Autosaves/Game/SpawnableObjects/ObjectToSpawn_Child22_Auto9.uasset'
+[2024.01.28-09.55.58:519][388]LogFileHelpers: Auto-saving content packages took 0.198
+[2024.01.28-09.56.00:237][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.28-09.56.13:240][474]LogSlate: Window 'Save Content' being destroyed
+[2024.01.28-09.56.13:255][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-09.56.13:477][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.28-09.56.13:489][474]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2024.01.28-09.56.13:490][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/VRTemplateMap7CEF16B44A6665467B1E408A553E6285.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2024.01.28-09.56.13:497][474]LogFileHelpers: All files are already saved.
+[2024.01.28-09.56.13:497][474]LogFileHelpers: Saving map 'VRTemplateMap' took 0.060
+[2024.01.28-09.56.13:499][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/eye_drone
+[2024.01.28-09.56.13:500][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/eye_droneC4B7D1AD49661B774C7811804B66843E.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/eye_drone.uasset'
+[2024.01.28-09.56.13:502][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/flying_car
+[2024.01.28-09.56.13:503][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/flying_carDBD5A86B4C2D4B7D2003FF882D6CE712.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/flying_car.uasset'
+[2024.01.28-09.56.13:506][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/goblin
+[2024.01.28-09.56.13:506][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/goblin081990CD40FB19E51B19E797D32DD766.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/goblin.uasset'
+[2024.01.28-09.56.13:509][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/Inquisitor_mat
+[2024.01.28-09.56.13:510][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Inquisitor_mat2B743CB040BACFB2FC89D5BE8986773B.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Textures/Inquisitor_mat.uasset'
+[2024.01.28-09.56.13:515][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn
+[2024.01.28-09.56.13:515][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn2392FA2D40EFBC50775E94B3E36E77B3.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn.uasset'
+[2024.01.28-09.56.13:520][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child
+[2024.01.28-09.56.13:521][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child5D330B04473B4A5D4809C3BF9F038CAA.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child.uasset'
+[2024.01.28-09.56.13:525][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child10
+[2024.01.28-09.56.13:525][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child103BCDD0B040F7C1325B683BBA4E097554.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child10.uasset'
+[2024.01.28-09.56.13:532][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child11
+[2024.01.28-09.56.13:532][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child119DCFD27A4C1B879143FAA5A22359806D.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child11.uasset'
+[2024.01.28-09.56.13:538][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child12
+[2024.01.28-09.56.13:538][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child12C7E0C3AC4B4416D7963E568AAC0D0BA2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child12.uasset'
+[2024.01.28-09.56.13:544][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child13
+[2024.01.28-09.56.13:544][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child13145692574D97AACEFE26EC82F1CCCE3F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child13.uasset'
+[2024.01.28-09.56.13:550][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child14
+[2024.01.28-09.56.13:550][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child1428BEA3E94218FEA862456D83E80917C4.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child14.uasset'
+[2024.01.28-09.56.13:556][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child15
+[2024.01.28-09.56.13:556][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child1583D081A04E81188FF1A683B34251C659.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child15.uasset'
+[2024.01.28-09.56.13:562][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child16
+[2024.01.28-09.56.13:562][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child161969150C46EB90D10E1DD6B0F5F20125.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child16.uasset'
+[2024.01.28-09.56.13:568][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child17
+[2024.01.28-09.56.13:568][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child173EFC505B4836837A1E009FBB78F6579F.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child17.uasset'
+[2024.01.28-09.56.13:574][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child18
+[2024.01.28-09.56.13:574][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child1826DE270444E3D9D9264FDB800A5FA606.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child18.uasset'
+[2024.01.28-09.56.13:580][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child19
+[2024.01.28-09.56.13:581][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child197FD3B48444139F3BF0163CAC63CD9879.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child19.uasset'
+[2024.01.28-09.56.13:587][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child20
+[2024.01.28-09.56.13:587][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child20CADD319448D8CF0D7BB7C186F5AE7CFA.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child20.uasset'
+[2024.01.28-09.56.13:593][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child21
+[2024.01.28-09.56.13:593][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child21490291D943845CDE1FFB7BABE527C171.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child21.uasset'
+[2024.01.28-09.56.13:599][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child22
+[2024.01.28-09.56.13:599][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child2250200CD74BD599B0D871B49373CAEDE9.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child22.uasset'
+[2024.01.28-09.56.13:605][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child23
+[2024.01.28-09.56.13:605][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child23065BCFBE4F6FBD4B1CF42DA745E59F76.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child23.uasset'
+[2024.01.28-09.56.13:612][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child24
+[2024.01.28-09.56.13:612][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child242880FE914710076E952F70AE94516B43.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child24.uasset'
+[2024.01.28-09.56.13:619][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child4
+[2024.01.28-09.56.13:619][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child40105C76E4EBA0C3C8020EDAAE523F3F0.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child4.uasset'
+[2024.01.28-09.56.13:625][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child7
+[2024.01.28-09.56.13:625][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child73D4EC34B49063A0568203AB0ABE2426A.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child7.uasset'
+[2024.01.28-09.56.13:632][474]LogSavePackage: Moving output files for package: /Game/SpawnableObjects/ObjectToSpawn_Child9
+[2024.01.28-09.56.13:632][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/ObjectToSpawn_Child9A7FEBAF04D0734ECFD2E0788CCD29875.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/SpawnableObjects/ObjectToSpawn_Child9.uasset'
+[2024.01.28-09.56.13:637][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/orc" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/orc.uasset" SILENT=true
+[2024.01.28-09.56.13:639][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/orc
+[2024.01.28-09.56.13:639][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/orcF090E29C4C4CB5EA7A5B2B9117B9F0CE.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/orc.uasset'
+[2024.01.28-09.56.13:643][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/palette
+[2024.01.28-09.56.13:644][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/paletteDEFEDE93467455690C17D49CCAABD63D.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/palette.uasset'
+[2024.01.28-09.56.13:647][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/pixel_knight
+[2024.01.28-09.56.13:648][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/pixel_knight76A1A0DD42C04CBBEC4824B78DC5BA25.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/pixel_knight.uasset'
+[2024.01.28-09.56.13:652][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/pixelKnight
+[2024.01.28-09.56.13:653][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/pixelKnight6F055741418214AB2927FE90A95593D2.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/pixelKnight.uasset'
+[2024.01.28-09.56.13:656][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/ship
+[2024.01.28-09.56.13:657][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/shipF8BCAD1C4B7EA04030458083966F3804.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/ship.uasset'
+[2024.01.28-09.56.13:660][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/spaceship
+[2024.01.28-09.56.13:660][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/spaceship23F6063B44FFDE7EDFBB509A38672695.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/spaceship.uasset'
+[2024.01.28-09.56.13:662][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Spawner" FILE="../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset" SILENT=true
+[2024.01.28-09.56.13:669][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Spawner
+[2024.01.28-09.56.13:670][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/Spawner2E127A8B4FB3021231720D91664FB563.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Spawner.uasset'
+[2024.01.28-09.56.13:673][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/tetris
+[2024.01.28-09.56.13:674][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/tetris3B1375154C2088D2CF261AAAB616B604.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/tetris.uasset'
+[2024.01.28-09.56.13:678][474]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/wizard_tower
+[2024.01.28-09.56.13:679][474]LogSavePackage: Moving '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Saved/wizard_tower0240C70E41AF071E8772FAA668BC0D3C.tmp' to '../../../../../../Users/ilmar/OneDrive/Documents/GitHub/FGJ/WhackAInquisitor/Content/LevelPrototyping/Meshes/wizard_tower.uasset'
+[2024.01.28-09.56.13:687][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 432 ms (total: 25.5 sec)
+[2024.01.28-09.56.13:699][474]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/eye_drone.eye_drone
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/flying_car.flying_car
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/goblin.goblin
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Textures/Inquisitor_mat.Inquisitor_mat
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn.ObjectToSpawn
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child.ObjectToSpawn_Child
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child10.ObjectToSpawn_Child10
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child11.ObjectToSpawn_Child11
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child12.ObjectToSpawn_Child12
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child13.ObjectToSpawn_Child13
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child14.ObjectToSpawn_Child14
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child15.ObjectToSpawn_Child15
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child16.ObjectToSpawn_Child16
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child17.ObjectToSpawn_Child17
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child18.ObjectToSpawn_Child18
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child19.ObjectToSpawn_Child19
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child20.ObjectToSpawn_Child20
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child21.ObjectToSpawn_Child21
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child22.ObjectToSpawn_Child22
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child23.ObjectToSpawn_Child23
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child24.ObjectToSpawn_Child24
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child4.ObjectToSpawn_Child4
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child7.ObjectToSpawn_Child7
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObjects/ObjectToSpawn_Child9.ObjectToSpawn_Child9
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/orc.orc
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/palette.palette
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/pixel_knight.pixel_knight
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LevelPrototyping/Meshes/pixelKnight.pixelKnight
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/ship.ship
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/spaceship.spaceship
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LevelPrototyping/Spawner.Spawner
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/tetris.tetris
+[2024.01.28-09.56.13:699][474]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LevelPrototyping/Meshes/wizard_tower.wizard_tower
+[2024.01.28-09.56.16:615][601]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/LevelPrototyping/Meshes/goblin_.goblin_
+[2024.01.28-09.56.16:625][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-09.56.16:625][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-09.56.17:219][601]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.01.28-09.56.44:750][125]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.56.44:750][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.04:851][155]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.04:851][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.08:170][341]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.08:170][341]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.08:170][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.09:343][401]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.09:343][401]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.09:343][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.10:714][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.10:714][478]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.10:714][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.11:872][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.11:872][543]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.11:872][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.12:804][595]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.12:804][595]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.12:804][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.14:164][673]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.14:164][673]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.14:164][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.15:376][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.15:376][741]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.15:376][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.16:481][804]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.16:481][804]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.16:481][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-09.57.18:545][919]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-09.57.18:545][919]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-09.57.18:545][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
